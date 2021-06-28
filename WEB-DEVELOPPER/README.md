@@ -1,4 +1,4 @@
-# Web developper course
+# Web developer course
 https://openclassrooms.com/fr/paths/185-developpeur-web
 
 ## Syllabus of the course
