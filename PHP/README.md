@@ -1,5 +1,7 @@
 # PHP & Symfony apps developer course / formation de développeur d'applications PHP & Symfony
-[OpenClassrooms PHP & Symfony apps developer course / formation Développeur d'application PHP & Symfony OpenClassrooms](https://openclassrooms.com/fr/paths/59-developpeur-dapplication-php-symfony)  
+More information / + informations : [OpenClassrooms PHP & Symfony apps developer course / formation Développeur d'application PHP & Symfony OpenClassrooms](https://openclassrooms.com/fr/paths/59-developpeur-dapplication-php-symfony) 
+
+
 [The course Certification / Certifications](https://github.com/s-manguy/diploma/blob/main/FRONT-END/sandrine-manguy-certification-Front-End-apps.png)
 
 ## Syllabus of the course / contenu de la formation
