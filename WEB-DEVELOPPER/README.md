@@ -1,5 +1,6 @@
 # Web developer course
-https://openclassrooms.com/fr/paths/185-developpeur-web
+[More information on the OpenClassrooms Web developer course](https://openclassrooms.com/fr/paths/185-developpeur-web)  
+[The course certifications]()
 
 ## Syllabus of the course
 1. Apprenez à apprendre [Syllabus](https://openclassrooms.com/fr/courses/4312781-apprenez-a-apprendre) [Certification]()  
