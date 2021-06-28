@@ -1,8 +1,8 @@
-# Web developer course
-[More information on the OpenClassrooms Web developer course](https://openclassrooms.com/fr/paths/185-developpeur-web)  
-[The course Certification](https://github.com/s-manguy/diploma/blob/main/WEB-DEVELOPPER/sandrine-manguy-certification-WebDevelopper.png)
+# Web developer course / formation Développeur web
+[OpenClassrooms Web developer course / formation Développeur web chez OpenClassrooms](https://openclassrooms.com/fr/paths/185-developpeur-web)  
+[The course Certification / Certifications](https://github.com/s-manguy/diploma/blob/main/WEB-DEVELOPPER/sandrine-manguy-certification-WebDevelopper.png)
 
-## Syllabus of the course
+## Syllabus of the course / Contenu de la formation
 1. Apprenez à apprendre [Syllabus](https://openclassrooms.com/fr/courses/4312781-apprenez-a-apprendre) [Certification](https://github.com/s-manguy/diploma/blob/main/WEB-DEVELOPPER/certificate-apprendre-5054820055.pdf)  
 1. Comprendre le web [Syllabus](https://openclassrooms.com/fr/courses/1946386-comprendre-le-web) [Certification](https://github.com/s-manguy/diploma/blob/main/WEB-DEVELOPPER/certificate-comprendre-web-2660422636.pdf)  
 1. Mettre en place une veille informationnelle [Syllabus](https://openclassrooms.com/fr/courses/4805776-mettez-en-place-un-systeme-de-veille-informationnelle) [Certification](https://github.com/s-manguy/diploma/blob/main/WEB-DEVELOPPER/certificate-veille-informationnelle-2061319342.pdf)   
@@ -25,7 +25,7 @@
 1. Créez une application web avec vue.js [Syllabus](https://openclassrooms.com/fr/courses/6390311-creez-une-application-web-avec-vue-js) [Certification](https://github.com/s-manguy/diploma/blob/main/WEB-DEVELOPPER/certificate-vue-js-1977167923.pdf)  
 
 
-### More validated courses
+### More validated courses / Cours validés en supplément
 21. Apprenez à utiliser la ligne de commande dans un terminal [Syllabus](https://openclassrooms.com/fr/courses/6173491-apprenez-a-utiliser-la-ligne-de-commande-dans-un-terminal) [Certification](https://github.com/s-manguy/diploma/blob/main/WEB-DEVELOPPER/certificate-ligne-de-commande-5733338794.pdf)  
 1. Utilisez les effets avancés de css sur votre site [Syllabus](https://openclassrooms.com/fr/courses/2745636-utilisez-les-effets-avances-de-css-sur-votre-site) *No certification on this course* 
 1. Codez un site web accessible en HTML et CSS [Syllabus](https://openclassrooms.com/fr/courses/6691451-codez-un-site-web-accessible-avec-html-css) [Certificate](https://github.com/s-manguy/diploma/blob/main/WEB-DEVELOPPER/certificate-accessibilite-html-css-5442284742.pdf)
@@ -34,7 +34,7 @@
 1. Adoptez Visual studio comme environnement de développement [Syllabus](https://openclassrooms.com/fr/courses/5641796-adoptez-visual-studio-comme-environnement-de-developpement)[Certificate](https://github.com/s-manguy/diploma/blob/main/WEB-DEVELOPPER/certificate-visual-studio-8724866019.pdf)
 
 
-## Skills
+## Skills / Compétences
 * Update skills and knowledge / Mettre à jours ses connaissances 
 * Use a terminal  / utiliser les lignes de commandes d'un terminal
 * Git & GitHub  
