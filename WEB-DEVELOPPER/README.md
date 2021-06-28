@@ -20,7 +20,7 @@ https://openclassrooms.com/fr/paths/185-developpeur-web
 1. Apprenez à programmer avec Javascript [Syllabus](https://openclassrooms.com/fr/courses/6175841-apprenez-a-programmer-avec-javascript) [Certification]()  
 1. Ecrivez du javascript pour le web [Syllabus](https://openclassrooms.com/fr/courses/5543061-ecrivez-du-javascript-pour-le-web) [Certification]()  
 1. Créez des sites web responsive avec Bootstrap 4 [Syllabus](https://openclassrooms.com/fr/courses/6391096-creez-des-sites-web-responsive-avec-bootstrap-4) [Certification]()  
-1. Passez au full stack avec node.je, express et MongoDB [Syllabus](https://openclassrooms.com/fr/courses/6390246-passez-au-full-stack-avec-node-js-express-et-mongodb) [Certification]()  
+1. Passez au full stack avec node.js, express et MongoDB [Syllabus](https://openclassrooms.com/fr/courses/6390246-passez-au-full-stack-avec-node-js-express-et-mongodb) [Certification]()  
 1. Sécurisez vos applications web avec l'OWASP [Syllabus](https://openclassrooms.com/fr/courses/6179306-securisez-vos-applications-web-avec-lowasp) [Certification]() 
 1. Adoptez les API Rest pour vos projets web [Syllabus](https://openclassrooms.com/fr/courses/6573181-adoptez-les-api-rest-pour-vos-projets-web) [Certification]()  
 1. Administrez vos bases de données avec MySql [Syllabus](https://openclassrooms.com/fr/courses/1959476-administrez-vos-bases-de-donnees-avec-mysql) [Certification]() 
