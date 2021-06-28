@@ -1,6 +1,6 @@
 # UX Designer course
 [More information on the OpenClassrooms Web developer course](https://openclassrooms.com/fr/paths/97-ux-designer)  
-[The course Certification](https://github.com/s-manguy/diploma/blob/main/WEB-DEVELOPPER/sandrine-manguy-certification-WebDevelopper.png)
+[The course Certification](https://github.com/s-manguy/diploma/blob/main/UX-DESIGN/sandrine-manguy-certification-UXDesigner.png)
 
 ## Syllabus of the course
 https://openclassrooms.com/fr/courses/4312781-apprenez-a-apprendre
