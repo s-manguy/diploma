@@ -10,6 +10,7 @@
 1. Créez un site moderne et professionnel avec Wordpress 5 [Syllabus](https://openclassrooms.com/fr/courses/5489551-creez-un-site-moderne-et-professionnel-avec-wordpress-5) **[Certification](https://github.com/s-manguy/diploma/blob/main/PHP/certificate-wordpress-moderne-professionnel-9932423001.pdf)**
 1. Gérez un projet digital avec la méthodologie en cascade [Syllabus](https://openclassrooms.com/fr/courses/4296701-gerez-un-projet-digital-avec-une-methodologie-en-cascade) **[Certification](https://github.com/s-manguy/diploma/blob/main/PHP/certificate-gestion-projet-en-cascade-7784459429.pdf)** 
 1. Gérez votre projet informatique facilement [Syllabus](https://openclassrooms.com/fr/courses/4192086-gerez-votre-projet-informatique-facilement) **[Certification](https://github.com/s-manguy/diploma/blob/main/PHP/certificate-gestion-projet-informatique-3101496005.pdf)**
+1. Découpez et intégrez une maquette [Syllabus](https://openclassrooms.com/fr/courses/3504431-decoupez-et-integrez-une-maquette) **[Certification](https://github.com/s-manguy/diploma/blob/main/PHP/certificate-integration-9697421261.pdf)**  
 1. Créez des animations css modernes [Syllabus](https://openclassrooms.com/fr/courses/5919246-creez-des-animations-css-modernes) **[Certification](https://github.com/s-manguy/diploma/blob/main/PHP/certificate-animation-css-modernes-6629953349.pdf)**  
 1. Créez des sites web responsive avec Bootstrap 4 [Syllabus](https://openclassrooms.com/fr/courses/6391096-creez-des-sites-web-responsive-avec-bootstrap-4) **[Certification](https://github.com/s-manguy/diploma/blob/main/PHP/certificate-bootstrap-4-5100297731.pdf)**   
 1. Débutez l'analyse logicielle avec UML [Syllabus](https://openclassrooms.com/fr/courses/2035826-debutez-lanalyse-logicielle-avec-uml) **[Certification](https://github.com/s-manguy/diploma/blob/main/PHP/certificate-uml-5143672466.pdf)**
@@ -28,19 +29,24 @@
 1. Surveillez la performance de votre application PHP [Syllabus](https://openclassrooms.com/fr/courses/4939956-surveillez-la-performance-de-votre-application-php)  
 1. Rédigez votre rapport de stage [Syllabus](https://openclassrooms.com/fr/courses/4466756-redigez-votre-rapport-de-stage) *No Certification/ pas de certification délivrée pour ce cours*    
 1. Préparez-vous aux tests techniques pour devenir développeur [Syllabus](https://openclassrooms.com/fr/courses/6045521-preparez-vous-aux-tests-techniques-pour-devenir-developpeur) **[Certification](https://github.com/s-manguy/diploma/blob/main/PHP/certificate-tests-techniques-6246894373.pdf)**
-1. Mettre en place une veille informationnelle [Syllabus](https://openclassrooms.com/fr/courses/4805776-mettez-en-place-un-systeme-de-veille-informationnelle) **[Certification](https://github.com/s-manguy/diploma/blob/main/PHP/certificate-veille-informationnelle-2061319342.pdf)**
+2. Mettre en place une veille informationnelle [Syllabus](https://openclassrooms.com/fr/courses/4805776-mettez-en-place-un-systeme-de-veille-informationnelle) **[Certification](https://github.com/s-manguy/diploma/blob/main/PHP/certificate-veille-informationnelle-2061319342.pdf)**
 
 
 ### More validated courses / cours validés en supplément
-1. Apprenez à utiliser la ligne de commande dans un terminal [Syllabus](https://openclassrooms.com/fr/courses/6173491-apprenez-a-utiliser-la-ligne-de-commande-dans-un-terminal) **[Certification]()**  
+28. Apprenez à utiliser la ligne de commande dans un terminal [Syllabus](https://openclassrooms.com/fr/courses/6173491-apprenez-a-utiliser-la-ligne-de-commande-dans-un-terminal) **[Certification]()**  
 1. Utilisez les effets avancés de css sur votre site [Syllabus](https://openclassrooms.com/fr/courses/2745636-utilisez-les-effets-avances-de-css-sur-votre-site) *No certification on this course / Pas de certification délivrée pour ce cours*  
-3. Prenez en main Bootstrap **[Certification](https://github.com/s-manguy/diploma/blob/main/PHP/certificate-bootstrap-5505065014.pdf)**  
-4. Sécurisez vos applications web avec l'OWASP [Syllabus](https://openclassrooms.com/fr/courses/6179306-securisez-vos-applications-web-avec-lowasp) **[Certification](https://github.com/s-manguy/diploma/blob/main/PHP/certificate-owasp-7141137906.pdf)**   
-5. Appliquer le principe du Domain Driven Design [Syllabus](https://openclassrooms.com/fr/courses/5647281-appliquez-le-principe-du-domain-driven-design-a-votre-application) **[Certification](https://github.com/s-manguy/diploma/blob/main/FRONT-END/certificate-domain-driven-design-8071204902.pdf)** 
-6. Se maintenir à jour en développement **[Certification](https://github.com/s-manguy/diploma/blob/main/PHP/certificate-se-maintenir-a-jour-developpement-1330322190.pdf )**
+1. Prenez en main Bootstrap **[Certification](https://github.com/s-manguy/diploma/blob/main/PHP/certificate-bootstrap-5505065014.pdf)**  
+1. Sécurisez vos applications web avec l'OWASP [Syllabus](https://openclassrooms.com/fr/courses/6179306-securisez-vos-applications-web-avec-lowasp) **[Certification](https://github.com/s-manguy/diploma/blob/main/PHP/certificate-owasp-7141137906.pdf)**   
+1. Appliquer le principe du Domain Driven Design [Syllabus](https://openclassrooms.com/fr/courses/5647281-appliquez-le-principe-du-domain-driven-design-a-votre-application) **[Certification](https://github.com/s-manguy/diploma/blob/main/FRONT-END/certificate-domain-driven-design-8071204902.pdf)** 
+1. Se maintenir à jour en développement **[Certification](https://github.com/s-manguy/diploma/blob/main/PHP/certificate-se-maintenir-a-jour-developpement-1330322190.pdf )**
 
 ## Skills / Compétences
 * HTML5 & CSS3
 * Bootstrap
 * Wordpress, Elementor
+* Code from a mock-up / Découpez et intégrer une maquette
 * Project management / Gestion de projet : waterfall & agile methods, méthodes en cascade et agiles
+* UML & database / UML et base données
+* MySql, PostgreSql
+* PHP (MVC & POO)
+
