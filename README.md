@@ -7,7 +7,7 @@ Find in this repository all my **Diploma, Certifications, Knowledges and Skills*
 1994-1996 : **Designer** Diploma, level III - 5 (Bac+2)  
 1991-1994 : **Baccalauréat Arts Appliqués à l'industrie** Diploma, level IV - 4 (Bac)  
 
-## Developper
+## Developer
 ### Front-End
 2021-2021 : freeCodeCamp **Data Visualization** Certification  
 2021-2021 : freeCodeCamp **Front-End Libraries** Certification  
