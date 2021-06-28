@@ -32,6 +32,8 @@
 1. Créez des pages web interactives [Syllabus]() [Certificate](https://github.com/s-manguy/diploma/blob/main/WEB-DEVELOPPER/certificate-web-interactif-javascript-7781138874.pdf) 
 1. Découvrez le fonctionnement des algorythmes [Syllabus](https://openclassrooms.com/fr/courses/4366701-decouvrez-le-fonctionnement-des-algorithmes) [Certification](https://github.com/s-manguy/diploma/blob/main/WEB-DEVELOPPER/certificate-algorythmes-7847288853.pdf)  
 1. Adoptez Visual studio comme environnement de développement [Syllabus](https://openclassrooms.com/fr/courses/5641796-adoptez-visual-studio-comme-environnement-de-developpement)[Certificate](https://github.com/s-manguy/diploma/blob/main/WEB-DEVELOPPER/certificate-visual-studio-8724866019.pdf)
+
+
 ## Skills
 * update skills and knowledge  
 * use a terminal  
