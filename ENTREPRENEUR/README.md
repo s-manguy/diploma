@@ -45,7 +45,7 @@ TO MODIFY
 * Gestion : Business Model, Business plan
 * Comptabilité : comptabilité d'indépendant, opérations courantes, fin d'exercice, trésorerie
 * Juridique : pacte actionnaire, statut, 
-* Communication : prise de parole en public, storytelling, campagne publicitaire, reportings et budgets, présentations, 
+* Communication : personal branding, prise de parole en public, storytelling, campagne publicitaire, reportings et budgets, présentations, 
 * Marketing : marketing digital, étude de marché, growth hacking,  
 * Gestion de projet : méthodologie en cascade
 * Techniques commerciales : technique, stratégie, réseau professionnel
