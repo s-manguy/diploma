@@ -28,8 +28,8 @@ https://openclassrooms.com/fr/paths/185-developpeur-web
 
 
 ## More validated courses
-1. Utilisez les effets avancés de css sur votre site [Syllabus](https://openclassrooms.com/fr/courses/2745636-utilisez-les-effets-avances-de-css-sur-votre-site) No certification on this course  
+1. Utilisez les effets avancés de css sur votre site [Syllabus](https://openclassrooms.com/fr/courses/2745636-utilisez-les-effets-avances-de-css-sur-votre-site) *No certification on this course*  
 2. Initiez-vous à jQuery [Syllabus](https://openclassrooms.com/fr/courses/3504441-introduction-a-jquery) [Certification]()  
-3. Un site web dynamique avec jQuery [Syllabus](https://openclassrooms.com/fr/courses/1567926-un-site-web-dynamique-avec-jquery) No certification on this course  
+3. Un site web dynamique avec jQuery [Syllabus](https://openclassrooms.com/fr/courses/1567926-un-site-web-dynamique-avec-jquery) *No certification on this course*  
 4. Découvrez le fonctionnement des algorythmes [Syllabus](https://openclassrooms.com/fr/courses/4366701-decouvrez-le-fonctionnement-des-algorithmes) [Certification]()  
 ## Skills
