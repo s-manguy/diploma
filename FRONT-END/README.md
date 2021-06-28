@@ -1,6 +1,6 @@
 # Front-End aps Developer course
 [More information on the OpenClassrooms **Front-End aps Developer course**](https://openclassrooms.com/fr/paths/185-developpeur-web)  
-[The course Certification](https://github.com/s-manguy/diploma/blob/main/WEB-DEVELOPPER/sandrine-manguy-certification-WebDevelopper.png)
+[The course Certification](https://github.com/s-manguy/diploma/blob/main/FRONT-END/sandrine-manguy-certification-Front-End-apps.png)
 
 ## Syllabus of the course
 1. Apprenez à apprendre [Syllabus](https://openclassrooms.com/fr/courses/4312781-apprenez-a-apprendre) [Certification]()  
