@@ -9,7 +9,7 @@ https://openclassrooms.com/fr/paths/185-developpeur-web
 1. Découvrez les métiers de développeur [Syllabus](https://openclassrooms.com/fr/courses/6817086-decouvrez-les-metiers-de-developpeur) [Certification]()  
 
 1. Apprenez à utiliser la ligne de commande dans un terminal [Syllabus](https://openclassrooms.com/fr/courses/6173491-apprenez-a-utiliser-la-ligne-de-commande-dans-un-terminal) [Certification]()  
-1. Gérez du code avec git & Github [Syllabus](https://openclassrooms.com/fr/courses/7162856-gerez-du-code-avec-git-et-github) [Certification]()  
+1. Utilisez git & Github pour vos projets de développement [Syllabus](https://openclassrooms.com/fr/courses/5641721-utilisez-git-et-github-pour-vos-projets-de-developpement) [Certification]()  
 1. Apprenez à créer votre site avec HTML5 et CSS3 [Syllabus](https://openclassrooms.com/fr/courses/1603881-apprenez-a-creer-votre-site-web-avec-html5-et-css3) [Certification]()  
 1. Découpez et intégrez une maquette [Syllabus](https://openclassrooms.com/fr/courses/3504431-decoupez-et-integrez-une-maquette) [Certification]()  
 1. Simplifiez-vous le css avec sass [Syllabus](https://openclassrooms.com/fr/courses/6106181-simplifiez-vous-le-css-avec-sass) [Certification]()  
@@ -27,4 +27,9 @@ https://openclassrooms.com/fr/paths/185-developpeur-web
 1. Créez une application web avec vue.js [Syllabus](https://openclassrooms.com/fr/courses/6390311-creez-une-application-web-avec-vue-js) [Certification]()  
 
 
+## More validated courses
+1. Utilisez les effets avancés de css sur votre site [Syllabus](https://openclassrooms.com/fr/courses/2745636-utilisez-les-effets-avances-de-css-sur-votre-site) No certification on this course  
+2. Initiez-vous à jQuery [Syllabus](https://openclassrooms.com/fr/courses/3504441-introduction-a-jquery) [Certification]()  
+3. Un site web dynamique avec jQuery [Syllabus](https://openclassrooms.com/fr/courses/1567926-un-site-web-dynamique-avec-jquery)
+4. Découvrez le fonctionnement des algorythmes [Syllabus](https://openclassrooms.com/fr/courses/4366701-decouvrez-le-fonctionnement-des-algorithmes) [Certification]()  
 ## Skills
