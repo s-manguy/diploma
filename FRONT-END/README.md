@@ -47,3 +47,26 @@ TO MODIFY
 1. Créez un site moderne et professionnel avec Wordpress 5 [Syllabus](https://openclassrooms.com/fr/courses/5489551-creez-un-site-moderne-et-professionnel-avec-wordpress-5) [Certification](https://github.com/s-manguy/diploma/blob/main/FRONT-END/certificate-wordpress-moderne-professionnel-9932423001.pdf)
   
 ## Skills
+* Update skills / Mettre à jour ses connaissances - Veille informationnelle
+* Soft skills / soft skills
+* Create a mock-up / créer une maquette d'interface cliquable
+* UX mapping methods / méthodes d'UX mapping
+* Use a terminal / Lignes de commandes d'un terminal
+* Git GitHub
+* HMTL5 & CSS3
+* CSS3 advanced skills / CSS3 fonctions avancées (animation)
+* Sass (.scss)
+* Code from a mock-up / Découper et intégrer une maquette
+* Algorythms / algorythmes
+* JavaScript
+* Accessibility / accessibilité
+* TDD
+* Tests : Jasmine, Jest, Chai, Enzyme, Sinon
+* Project management : agility and waterfall methods / Gestion de projet : méthodes agiles et en cascade
+* Technical specifications / Cahier des charges fonctionnel
+* Technical documentation / Documentation technique
+* Domain-Driven-Design
+* UML
+* React.js
+* Redux
+* Wordpress, Elementor...
