@@ -1,8 +1,8 @@
-# Front-End apps Developer Course
-[More information on the OpenClassrooms **Front-End apps Developer course**](https://openclassrooms.com/fr/paths/314-developpeur-front-end)  
-[The course Certification](https://github.com/s-manguy/diploma/blob/main/FRONT-END/sandrine-manguy-certification-Front-End-apps.png)
+# Front-End apps Developer Course / formation développeur front-end
+[OpenClassrooms **Front-End apps Developer course** / formation développeur d'applications front-end](https://openclassrooms.com/fr/paths/314-developpeur-front-end)  
+[The course Certification / certifications](https://github.com/s-manguy/diploma/blob/main/FRONT-END/sandrine-manguy-certification-Front-End-apps.png)
 
-## Syllabus of the course
+## Syllabus of the course / contenu de la formation
 1. Apprenez à apprendre [Syllabus](https://openclassrooms.com/fr/courses/4312781-apprenez-a-apprendre) [Certification](https://github.com/s-manguy/diploma/blob/main/FRONT-END/certificate-apprendre-5054820055.pdf)  
 1. Comprendre le web [Syllabus](https://openclassrooms.com/fr/courses/1946386-comprendre-le-web) [Certification](https://github.com/s-manguy/diploma/blob/main/FRONT-END/certificate-comprendre-web-2660422636.pdf)  
 1. Mettre en place une veille informationnelle [Syllabus](https://openclassrooms.com/fr/courses/4805776-mettez-en-place-un-systeme-de-veille-informationnelle) [Certification](https://github.com/s-manguy/diploma/blob/main/FRONT-END/certificate-veille-informationnelle-2061319342.pdf)   
@@ -30,7 +30,7 @@
 1. Organisez votre application avec la logique Redux [Syllabus](https://openclassrooms.com/fr/courses/5511091-organisez-votre-application-avec-la-logique-redux) [Certification](https://github.com/s-manguy/diploma/blob/main/FRONT-END/Certificate-Redux-2967299340.pdf)  
 
 
-### More validated courses
+### More validated courses / cours validés en supplément
 26. Apprenez à utiliser la ligne de commande dans un terminal [Syllabus](https://openclassrooms.com/fr/courses/6173491-apprenez-a-utiliser-la-ligne-de-commande-dans-un-terminal) [Certification](https://github.com/s-manguy/diploma/blob/main/FRONT-END/certificate-ligne-de-commande-5733338794.pdf)
 1. Utilisez les effets avancés de css sur votre site [Syllabus](https://openclassrooms.com/fr/courses/2745636-utilisez-les-effets-avances-de-css-sur-votre-site) *No certification on this course* 
 1. Créez des pages web interactives [Syllabus](https://openclassrooms.com/courses/creez-des-pages-web-interactives-avec-javascript) [Certificate](https://github.com/s-manguy/diploma/blob/main/FRONT-END/certificate-web-interactif-javascript-7781138874.pdf)  
@@ -43,7 +43,7 @@
 1. Préparez-vous aux tests techniques pour devenir développeur [Syllabus](https://openclassrooms.com/fr/courses/6045521-preparez-vous-aux-tests-techniques-pour-devenir-developpeur) [Certification](https://github.com/s-manguy/diploma/blob/main/FRONT-END/certificate-tests-techniques-6246894373.pdf)
 1. Créez un site moderne et professionnel avec Wordpress 5 [Syllabus](https://openclassrooms.com/fr/courses/5489551-creez-un-site-moderne-et-professionnel-avec-wordpress-5) [Certification](https://github.com/s-manguy/diploma/blob/main/FRONT-END/certificate-wordpress-moderne-professionnel-9932423001.pdf)
   
-## Skills
+## Skills / compétences
 * Update skills / Mettre à jour ses connaissances - Veille informationnelle
 * Soft skills / soft skills
 * Create a mock-up / créer une maquette d'interface cliquable
