@@ -1,3 +1,6 @@
+TO MODIFY
+
+
 # Front-End apps Developer course
 [More information on the OpenClassrooms **Front-End apps Developer course**](https://openclassrooms.com/fr/paths/314-developpeur-front-end)  
 [The course Certification](https://github.com/s-manguy/diploma/blob/main/FRONT-END/sandrine-manguy-certification-Front-End-apps.png)
