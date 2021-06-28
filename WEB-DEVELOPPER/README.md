@@ -7,7 +7,6 @@
 1. Comprendre le web [Syllabus](https://openclassrooms.com/fr/courses/1946386-comprendre-le-web) [Certification](https://github.com/s-manguy/diploma/blob/main/WEB-DEVELOPPER/certificate-comprendre-web-2660422636.pdf)  
 1. Mettre en place une veille informationnelle [Syllabus](https://openclassrooms.com/fr/courses/4805776-mettez-en-place-un-systeme-de-veille-informationnelle) [Certification](https://github.com/s-manguy/diploma/blob/main/WEB-DEVELOPPER/certificate-veille-informationnelle-2061319342.pdf)   
 1. Découvrez les métiers de développeur [Syllabus](https://openclassrooms.com/fr/courses/6817086-decouvrez-les-metiers-de-developpeur) [Certification](https://github.com/s-manguy/diploma/blob/main/WEB-DEVELOPPER/certificate-metiers-developpeur-1571012551.pdf)  
-
 1. Utilisez git & Github pour vos projets de développement [Syllabus](https://openclassrooms.com/fr/courses/5641721-utilisez-git-et-github-pour-vos-projets-de-developpement) [Certification](https://github.com/s-manguy/diploma/blob/main/WEB-DEVELOPPER/certificate-git-github-5599139215.pdf)  
 1. Apprenez à créer votre site avec HTML5 et CSS3 [Syllabus](https://openclassrooms.com/fr/courses/1603881-apprenez-a-creer-votre-site-web-avec-html5-et-css3) [Certification](https://github.com/s-manguy/diploma/blob/main/WEB-DEVELOPPER/certificate-html-css-5508465518.pdf)  
 1. Découpez et intégrez une maquette [Syllabus](https://openclassrooms.com/fr/courses/3504431-decoupez-et-integrez-une-maquette) [Certification](https://github.com/s-manguy/diploma/blob/main/WEB-DEVELOPPER/certificate-integration-9697421261.pdf)  
@@ -27,13 +26,10 @@
 
 
 ## More validated courses
-1. Développez vos soft skills [Syllabus](https://openclassrooms.com/fr/courses/6692406-developpez-vos-soft-skills) [Certification]()  
 1. Apprenez à utiliser la ligne de commande dans un terminal [Syllabus](https://openclassrooms.com/fr/courses/6173491-apprenez-a-utiliser-la-ligne-de-commande-dans-un-terminal) [Certification](https://github.com/s-manguy/diploma/blob/main/WEB-DEVELOPPER/certificate-ligne-de-commande-5733338794.pdf)  
 1. Utilisez les effets avancés de css sur votre site [Syllabus](https://openclassrooms.com/fr/courses/2745636-utilisez-les-effets-avances-de-css-sur-votre-site) *No certification on this course* 
 1. Codez un site web accessible en HTML et CSS [Syllabus](https://openclassrooms.com/fr/courses/6691451-codez-un-site-web-accessible-avec-html-css) [Certificate](https://github.com/s-manguy/diploma/blob/main/WEB-DEVELOPPER/certificate-accessibilite-html-css-5442284742.pdf)
-3. Créez des pages web interactives [Syllabus]() [Certificate](https://github.com/s-manguy/diploma/blob/main/WEB-DEVELOPPER/certificate-web-interactif-javascript-7781138874.pdf) 
-4. Initiez-vous à jQuery [Syllabus](https://openclassrooms.com/fr/courses/3504441-introduction-a-jquery) [Certification]()  
-5. Un site web dynamique avec jQuery [Syllabus](https://openclassrooms.com/fr/courses/1567926-un-site-web-dynamique-avec-jquery) *No certification on this course*  
-6. Découvrez le fonctionnement des algorythmes [Syllabus](https://openclassrooms.com/fr/courses/4366701-decouvrez-le-fonctionnement-des-algorithmes) [Certification](https://github.com/s-manguy/diploma/blob/main/WEB-DEVELOPPER/certificate-algorythmes-7847288853.pdf)  
-7. Adoptez Visual studio comme environnement de développement[Syllabus](https://openclassrooms.com/fr/courses/5641796-adoptez-visual-studio-comme-environnement-de-developpement)[Certificate](https://github.com/s-manguy/diploma/blob/main/WEB-DEVELOPPER/certificate-visual-studio-8724866019.pdf)
+1. Créez des pages web interactives [Syllabus]() [Certificate](https://github.com/s-manguy/diploma/blob/main/WEB-DEVELOPPER/certificate-web-interactif-javascript-7781138874.pdf) 
+1. Découvrez le fonctionnement des algorythmes [Syllabus](https://openclassrooms.com/fr/courses/4366701-decouvrez-le-fonctionnement-des-algorithmes) [Certification](https://github.com/s-manguy/diploma/blob/main/WEB-DEVELOPPER/certificate-algorythmes-7847288853.pdf)  
+1. Adoptez Visual studio comme environnement de développement[Syllabus](https://openclassrooms.com/fr/courses/5641796-adoptez-visual-studio-comme-environnement-de-developpement)[Certificate](https://github.com/s-manguy/diploma/blob/main/WEB-DEVELOPPER/certificate-visual-studio-8724866019.pdf)
 ## Skills
