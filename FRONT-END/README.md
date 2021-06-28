@@ -21,15 +21,15 @@ TO MODIFY
 1. Concevez un contenu web accessible [Syllabus](https://openclassrooms.com/fr/courses/6691346-concevez-un-contenu-web-accessible) [Certification](https://github.com/s-manguy/diploma/blob/main/FRONT-END/certificate-contenu-accessible-9293276604.pdf)  
 1. [Syllabus](https://openclassrooms.com/fr/courses/6691451-codez-un-site-web-accessible-avec-html-css) [Certification](https://github.com/s-manguy/diploma/blob/main/FRONT-END/certificate-accessibilite-html-css-5442284742.pdf)  
 1. Découvrez le fonctionnement des algorythmes [Syllabus](https://openclassrooms.com/fr/courses/4366701-decouvrez-le-fonctionnement-des-algorithmes) [Certification](https://github.com/s-manguy/diploma/blob/main/FRONT-END/certificate-algorythmes-7847288853.pdf)
-1.  [Syllabus](https://openclassrooms.com/fr/courses/3504461-testez-linterface-de-votre-site) [Certification](https://github.com/s-manguy/diploma/blob/main/FRONT-END/certificate-test-8609685076.pdf)  
-1.  [Syllabus](https://openclassrooms.com/fr/courses/4507926-initiez-vous-a-la-gestion-de-projet-agile) [Certification](https://github.com/s-manguy/diploma/blob/main/FRONT-END/certificate-gestion-projet-agile-initiation-9237483558.pdf)  
-1.  [Syllabus](https://openclassrooms.com/fr/courses/4192086-gerez-votre-projet-informatique-facilement) [Certification](https://github.com/s-manguy/diploma/blob/main/FRONT-END/certificate-gestion-projet-informatique-3101496005.pdf)  
-1.  [Syllabus](https://openclassrooms.com/fr/courses/6739646-realisez-un-cahier-des-charges-fonctionnel) [Certification](https://github.com/s-manguy/diploma/blob/main/FRONT-END/certificate-cahier-des-charges-fonctionnel-7967942201.pdf)  
-1.  [Syllabus](https://openclassrooms.com/fr/courses/5249006-concevez-une-interface-cliquable) [Certification](https://github.com/s-manguy/diploma/blob/main/FRONT-END/certificate-interface-cliquable-5026279546.pdf)  
-1. [Syllabus](https://openclassrooms.com/fr/courses/5647281-appliquez-le-principe-du-domain-driven-design-a-votre-application) [Certification](https://github.com/s-manguy/diploma/blob/main/FRONT-END/certificate-domain-driven-design-8071204902.pdf)  
-1.  [Syllabus](https://openclassrooms.com/fr/courses/4664381-realisez-une-application-web-avec-react-j)s [Certification](https://github.com/s-manguy/diploma/blob/main/FRONT-END/Certificate-react-js-9700533153.pdf)  
+1. Testez l(interface de votre site [Syllabus](https://openclassrooms.com/fr/courses/3504461-testez-linterface-de-votre-site) [Certification](https://github.com/s-manguy/diploma/blob/main/FRONT-END/certificate-test-8609685076.pdf)  
+1. Initiez-vous à la gestion de projet agile [Syllabus](https://openclassrooms.com/fr/courses/4507926-initiez-vous-a-la-gestion-de-projet-agile) [Certification](https://github.com/s-manguy/diploma/blob/main/FRONT-END/certificate-gestion-projet-agile-initiation-9237483558.pdf)  
+1. Gérez votre projet informatique facilement [Syllabus](https://openclassrooms.com/fr/courses/4192086-gerez-votre-projet-informatique-facilement) [Certification](https://github.com/s-manguy/diploma/blob/main/FRONT-END/certificate-gestion-projet-informatique-3101496005.pdf)  
+1. Réalisez un cahier des charges fonctionnel [Syllabus](https://openclassrooms.com/fr/courses/6739646-realisez-un-cahier-des-charges-fonctionnel) [Certification](https://github.com/s-manguy/diploma/blob/main/FRONT-END/certificate-cahier-des-charges-fonctionnel-7967942201.pdf)  
+1. Concevez une interface cliquable [Syllabus](https://openclassrooms.com/fr/courses/5249006-concevez-une-interface-cliquable) [Certification](https://github.com/s-manguy/diploma/blob/main/FRONT-END/certificate-interface-cliquable-5026279546.pdf)  
+1. Appliquer le porincipe du Domain Driven Design [Syllabus](https://openclassrooms.com/fr/courses/5647281-appliquez-le-principe-du-domain-driven-design-a-votre-application) [Certification](https://github.com/s-manguy/diploma/blob/main/FRONT-END/certificate-domain-driven-design-8071204902.pdf)  
+1. Réalisez une application web avec React.js [Syllabus](https://openclassrooms.com/fr/courses/4664381-realisez-une-application-web-avec-react-j)s [Certification](https://github.com/s-manguy/diploma/blob/main/FRONT-END/Certificate-react-js-9700533153.pdf)  
 1. Adoptez les API Rest pour vos projets web [Syllabus](https://openclassrooms.com/fr/courses/6573181-adoptez-les-api-rest-pour-vos-projets-web) [Certification]()  
-1.  [Syllabus](https://openclassrooms.com/fr/courses/6398056-ecrivez-la-documentation-technique-de-votre-projet) [Certification]()  
+1. Ecrivez la documentation technique de votre projet [Syllabus](https://openclassrooms.com/fr/courses/6398056-ecrivez-la-documentation-technique-de-votre-projet) [Certification]()  
 1. Organisez votre application avec la logique Redux [Syllabus](https://openclassrooms.com/fr/courses/5511091-organisez-votre-application-avec-la-logique-redux) [Certification](https://github.com/s-manguy/diploma/blob/main/FRONT-END/Certificate-Redux-2967299340.pdf)  
 
 
@@ -39,12 +39,12 @@ TO MODIFY
 1. Créez des pages web interactives [Syllabus]() [Certificate](https://github.com/s-manguy/diploma/blob/main/FRONT-END/certificate-web-interactif-javascript-7781138874.pdf)  
 1. Initiez-vous à jQuery [Syllabus](https://openclassrooms.com/fr/courses/3504441-introduction-a-jquery) [Certification](https://github.com/s-manguy/diploma/blob/main/FRONT-END/certificate-jquery-7071514923.pdf)  
 1. Un site web dynamique avec jQuery [Syllabus](https://openclassrooms.com/fr/courses/1567926-un-site-web-dynamique-avec-jquery) *No certification on this course* 
-https://github.com/s-manguy/diploma/blob/main/FRONT-END/certificate-gestion-projet-agile-perfectionnement-7691420290.pdf
-https://github.com/s-manguy/diploma/blob/main/FRONT-END/certificate-UML-9518327322.pdf
-https://github.com/s-manguy/diploma/blob/main/FRONT-END/certificate-gestion-projet-en-cascade-7784459429.pdf
-https://github.com/s-manguy/diploma/blob/main/FRONT-END/certificate-se-maintenir-a-jour-developpement-1330322190.pdf
+1. Perfectionnez votre gestion de porjet agile [Syllabus](https://openclassrooms.com/fr/courses/4511316-perfectionnez-votre-gestion-de-projet-agile) [Certification](https://github.com/s-manguy/diploma/blob/main/FRONT-END/certificate-gestion-projet-agile-perfectionnement-7691420290.pdf)  
+1. https://github.com/s-manguy/diploma/blob/main/FRONT-END/certificate-UML-9518327322.pdf
+1. Gérez un projet digital avec la méthodologie en cascade [Syllabus](https://openclassrooms.com/fr/courses/4296701-gerez-un-projet-digital-avec-une-methodologie-en-cascade) [Certification](https://github.com/s-manguy/diploma/blob/main/FRONT-END/certificate-gestion-projet-en-cascade-7784459429.pdf)
+1. https://github.com/s-manguy/diploma/blob/main/FRONT-END/certificate-se-maintenir-a-jour-developpement-1330322190.pdf
 https://github.com/s-manguy/diploma/blob/main/FRONT-END/certificate-tests-techniques-6246894373.pdf
 https://github.com/s-manguy/diploma/blob/main/FRONT-END/certificate-uml-5143672466.pdf
-https://github.com/s-manguy/diploma/blob/main/FRONT-END/certificate-wordpress-moderne-professionnel-9932423001.pdf
+1. Créez un site moderne et professionnel avec Wordpress 5 [syllabus](https://openclassrooms.com/fr/courses/5489551-creez-un-site-moderne-et-professionnel-avec-wordpress-5) [Certification](https://github.com/s-manguy/diploma/blob/main/FRONT-END/certificate-wordpress-moderne-professionnel-9932423001.pdf)
   
 ## Skills
