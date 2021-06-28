@@ -28,7 +28,7 @@
 1. Elaborez votre stratégie de recherche d'emploi [Syllabus](https://openclassrooms.com/fr/courses/5218221-elaborez-votre-strategie-de-recherche-demploi) [Certification]()  
 
 ### More courses / cours validés en supplément
-Initiez-vous au marketing digital [Syllabus]() [Certificate]()
+24. Initiez-vous au marketing digital [Syllabus]() [Certificate]()
  
 ## Skills / Compétences
 * Design Thinking
