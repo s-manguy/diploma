@@ -1,6 +1,6 @@
 # Web developer course
 [More information on the OpenClassrooms Web developer course](https://openclassrooms.com/fr/paths/185-developpeur-web)  
-[The course certifications]()
+[The course certifications](https://github.com/s-manguy/diploma/blob/main/WEB-DEVELOPPER/sandrine-manguy-certification-WebDevelopper.png)
 
 ## Syllabus of the course
 1. Apprenez à apprendre [Syllabus](https://openclassrooms.com/fr/courses/4312781-apprenez-a-apprendre) [Certification]()  
