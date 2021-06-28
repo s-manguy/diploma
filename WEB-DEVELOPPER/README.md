@@ -35,17 +35,17 @@
 
 
 ## Skills
-* update skills and knowledge  
-* use a terminal  
+* Update skills and knowledge / Mettre à jours ses connaissances 
+* Use a terminal  / utiliser les lignes de commandes d'un terminal
 * Git & GitHub  
 * HTML5 & CSS3 
 * CSS3 advanced skills
-* sass (.scss)  
-* code a website from a mock-up  
+* Sass (.scss)  
+* Code a website from a mock-up / Découper et intégrer une maquette
 * SEO
-* accessibility
-* Javascript language
-* Bootstrap framework
+* Accessibility / Accessibilité
+* Javascript
+* Bootstrap 
 * Node.js, Express & MongoDB
 * Secure apps with OWASP
 * API Rest
@@ -53,3 +53,4 @@
 * Vue.js
 * Visual Studio Code
 * Sublim Text
+* Responsive Web Design
