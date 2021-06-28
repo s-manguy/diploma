@@ -14,7 +14,7 @@ https://openclassrooms.com/fr/paths/185-developpeur-web
 1. Découpez et intégrez une maquette [Syllabus](https://openclassrooms.com/fr/courses/3504431-decoupez-et-integrez-une-maquette) [Certification]()  
 1. Simplifiez-vous le css avec sass [Syllabus](https://openclassrooms.com/fr/courses/6106181-simplifiez-vous-le-css-avec-sass) [Certification]()  
 1. Créez des animations css modernes [Syllabus](https://openclassrooms.com/fr/courses/5919246-creez-des-animations-css-modernes) [Certification]()  
-1. optimisez le référencement de votre site SEO en améliorant ses performances techniques [Syllabus](https://openclassrooms.com/fr/courses/5922626-optimisez-le-referencement-de-votre-site-seo-en-ameliorant-ses-performances-techniques) [Certification]()  
+1. Optimisez le référencement de votre site SEO en améliorant ses performances techniques [Syllabus](https://openclassrooms.com/fr/courses/5922626-optimisez-le-referencement-de-votre-site-seo-en-ameliorant-ses-performances-techniques) [Certification]()  
 1. Augmentez votyre trafic grâce au référencment naturel [Syllabus](https://openclassrooms.com/fr/courses/5561431-augmentez-votre-trafic-grace-au-referencement-naturel-seo) [Certification]()  
 1. Concevez un contenu web accessible [Syllabus](https://openclassrooms.com/fr/courses/6691346-concevez-un-contenu-web-accessible) [Certification]()  
 1. Apprenez à programmer avec Javascript [Syllabus](https://openclassrooms.com/fr/courses/6175841-apprenez-a-programmer-avec-javascript) [Certification]()  
