@@ -28,7 +28,7 @@ TO MODIFY
 1. Concevez une interface cliquable [Syllabus](https://openclassrooms.com/fr/courses/5249006-concevez-une-interface-cliquable) [Certification](https://github.com/s-manguy/diploma/blob/main/FRONT-END/certificate-interface-cliquable-5026279546.pdf)  
 1. Appliquer le porincipe du Domain Driven Design [Syllabus](https://openclassrooms.com/fr/courses/5647281-appliquez-le-principe-du-domain-driven-design-a-votre-application) [Certification](https://github.com/s-manguy/diploma/blob/main/FRONT-END/certificate-domain-driven-design-8071204902.pdf)  
 1. Réalisez une application web avec React.js [Syllabus](https://openclassrooms.com/fr/courses/4664381-realisez-une-application-web-avec-react-j)s [Certification](https://github.com/s-manguy/diploma/blob/main/FRONT-END/Certificate-react-js-9700533153.pdf)  
-1. Adoptez les API Rest pour vos projets web [Syllabus](https://openclassrooms.com/fr/courses/6573181-adoptez-les-api-rest-pour-vos-projets-web) [Certification]()  
+1. Adoptez les API Rest pour vos projets web [Syllabus](https://openclassrooms.com/fr/courses/6573181-adoptez-les-api-rest-pour-vos-projets-web) [Certification](https://github.com/s-manguy/diploma/blob/main/FRONT-END/certificate-api-rest-4151434869.pdf)  
 1. Ecrivez la documentation technique de votre projet [Syllabus](https://openclassrooms.com/fr/courses/6398056-ecrivez-la-documentation-technique-de-votre-projet) [Certification]()  
 1. Organisez votre application avec la logique Redux [Syllabus](https://openclassrooms.com/fr/courses/5511091-organisez-votre-application-avec-la-logique-redux) [Certification](https://github.com/s-manguy/diploma/blob/main/FRONT-END/Certificate-Redux-2967299340.pdf)  
 
@@ -36,14 +36,14 @@ TO MODIFY
 ## More validated courses
 1. Apprenez à utiliser la ligne de commande dans un terminal [Syllabus](https://openclassrooms.com/fr/courses/6173491-apprenez-a-utiliser-la-ligne-de-commande-dans-un-terminal) [Certification](https://github.com/s-manguy/diploma/blob/main/FRONT-END/certificate-ligne-de-commande-5733338794.pdf)
 1. Utilisez les effets avancés de css sur votre site [Syllabus](https://openclassrooms.com/fr/courses/2745636-utilisez-les-effets-avances-de-css-sur-votre-site) *No certification on this course* 
-1. Créez des pages web interactives [Syllabus]() [Certificate](https://github.com/s-manguy/diploma/blob/main/FRONT-END/certificate-web-interactif-javascript-7781138874.pdf)  
+1. Créez des pages web interactives [Syllabus](https://openclassrooms.com/courses/creez-des-pages-web-interactives-avec-javascript) [Certificate](https://github.com/s-manguy/diploma/blob/main/FRONT-END/certificate-web-interactif-javascript-7781138874.pdf)  
 1. Initiez-vous à jQuery [Syllabus](https://openclassrooms.com/fr/courses/3504441-introduction-a-jquery) [Certification](https://github.com/s-manguy/diploma/blob/main/FRONT-END/certificate-jquery-7071514923.pdf)  
 1. Un site web dynamique avec jQuery [Syllabus](https://openclassrooms.com/fr/courses/1567926-un-site-web-dynamique-avec-jquery) *No certification on this course* 
 1. Perfectionnez votre gestion de porjet agile [Syllabus](https://openclassrooms.com/fr/courses/4511316-perfectionnez-votre-gestion-de-projet-agile) [Certification](https://github.com/s-manguy/diploma/blob/main/FRONT-END/certificate-gestion-projet-agile-perfectionnement-7691420290.pdf)  
-1. https://github.com/s-manguy/diploma/blob/main/FRONT-END/certificate-UML-9518327322.pdf
+1. Débutez l'analyse logicielle avec UML [Syllabus](https://openclassrooms.com/fr/courses/2035826-debutez-lanalyse-logicielle-avec-uml) [Certification](https://github.com/s-manguy/diploma/blob/main/FRONT-END/certificate-UML-9518327322.pdf)
 1. Gérez un projet digital avec la méthodologie en cascade [Syllabus](https://openclassrooms.com/fr/courses/4296701-gerez-un-projet-digital-avec-une-methodologie-en-cascade) [Certification](https://github.com/s-manguy/diploma/blob/main/FRONT-END/certificate-gestion-projet-en-cascade-7784459429.pdf)
-1. https://github.com/s-manguy/diploma/blob/main/FRONT-END/certificate-se-maintenir-a-jour-developpement-1330322190.pdf
-https://github.com/s-manguy/diploma/blob/main/FRONT-END/certificate-tests-techniques-6246894373.pdf
+1. Se maintenir à jour en développement [Certification](https://github.com/s-manguy/diploma/blob/main/FRONT-END/certificate-se-maintenir-a-jour-developpement-1330322190.pdf)
+1. Préparez-vous aux tests techniques pour devenir développeur [syllabus](https://openclassrooms.com/fr/courses/6045521-preparez-vous-aux-tests-techniques-pour-devenir-developpeur) [certification](https://github.com/s-manguy/diploma/blob/main/FRONT-END/certificate-tests-techniques-6246894373.pdf)
 https://github.com/s-manguy/diploma/blob/main/FRONT-END/certificate-uml-5143672466.pdf
 1. Créez un site moderne et professionnel avec Wordpress 5 [syllabus](https://openclassrooms.com/fr/courses/5489551-creez-un-site-moderne-et-professionnel-avec-wordpress-5) [Certification](https://github.com/s-manguy/diploma/blob/main/FRONT-END/certificate-wordpress-moderne-professionnel-9932423001.pdf)
   
