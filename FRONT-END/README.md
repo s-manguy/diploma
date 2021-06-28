@@ -35,9 +35,10 @@ TO MODIFY
 
 ## More validated courses
 1. Apprenez à utiliser la ligne de commande dans un terminal [Syllabus](https://openclassrooms.com/fr/courses/6173491-apprenez-a-utiliser-la-ligne-de-commande-dans-un-terminal) [Certification]()
-1. Utilisez les effets avancés de css sur votre site [Syllabus](https://openclassrooms.com/fr/courses/2745636-utilisez-les-effets-avances-de-css-sur-votre-site) *No certification on this course*  
-2. Initiez-vous à jQuery [Syllabus](https://openclassrooms.com/fr/courses/3504441-introduction-a-jquery) [Certification]()  
-3. Un site web dynamique avec jQuery [Syllabus](https://openclassrooms.com/fr/courses/1567926-un-site-web-dynamique-avec-jquery) *No certification on this course* 
+1. Utilisez les effets avancés de css sur votre site [Syllabus](https://openclassrooms.com/fr/courses/2745636-utilisez-les-effets-avances-de-css-sur-votre-site) *No certification on this course* 
+1. Créez des pages web interactives [Syllabus]() [Certificate](https://github.com/s-manguy/diploma/blob/main/FRONT-END/certificate-web-interactif-javascript-7781138874.pdf)  
+1. Initiez-vous à jQuery [Syllabus](https://openclassrooms.com/fr/courses/3504441-introduction-a-jquery) [Certification]()  
+1. Un site web dynamique avec jQuery [Syllabus](https://openclassrooms.com/fr/courses/1567926-un-site-web-dynamique-avec-jquery) *No certification on this course* 
 
   
 ## Skills
