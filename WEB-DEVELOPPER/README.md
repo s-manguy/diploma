@@ -30,9 +30,10 @@
 1. Développez vos soft skills [Syllabus](https://openclassrooms.com/fr/courses/6692406-developpez-vos-soft-skills) [Certification]()  
 1. Apprenez à utiliser la ligne de commande dans un terminal [Syllabus](https://openclassrooms.com/fr/courses/6173491-apprenez-a-utiliser-la-ligne-de-commande-dans-un-terminal) [Certification](https://github.com/s-manguy/diploma/blob/main/WEB-DEVELOPPER/certificate-ligne-de-commande-5733338794.pdf)  
 1. Utilisez les effets avancés de css sur votre site [Syllabus](https://openclassrooms.com/fr/courses/2745636-utilisez-les-effets-avances-de-css-sur-votre-site) *No certification on this course* 
-1. Créez des pages web interactives [Syllabus]() [Certificate](https://github.com/s-manguy/diploma/blob/main/WEB-DEVELOPPER/certificate-web-interactif-javascript-7781138874.pdf) 
-1. Initiez-vous à jQuery [Syllabus](https://openclassrooms.com/fr/courses/3504441-introduction-a-jquery) [Certification]()  
-1. Un site web dynamique avec jQuery [Syllabus](https://openclassrooms.com/fr/courses/1567926-un-site-web-dynamique-avec-jquery) *No certification on this course*  
-1. Découvrez le fonctionnement des algorythmes [Syllabus](https://openclassrooms.com/fr/courses/4366701-decouvrez-le-fonctionnement-des-algorithmes) [Certification](https://github.com/s-manguy/diploma/blob/main/WEB-DEVELOPPER/certificate-algorythmes-7847288853.pdf)  
-1. Adoptez Visual studio comme environnement de développement[Syllabus]()[Certificate(https://github.com/s-manguy/diploma/blob/main/WEB-DEVELOPPER/certificate-visual-studio-8724866019.pdf)
+1. Codez un site web accessible en HTML et CSS [Syllabus](https://openclassrooms.com/fr/courses/6691451-codez-un-site-web-accessible-avec-html-css) [Certificate](https://github.com/s-manguy/diploma/blob/main/WEB-DEVELOPPER/certificate-accessibilite-html-css-5442284742.pdf)
+3. Créez des pages web interactives [Syllabus]() [Certificate](https://github.com/s-manguy/diploma/blob/main/WEB-DEVELOPPER/certificate-web-interactif-javascript-7781138874.pdf) 
+4. Initiez-vous à jQuery [Syllabus](https://openclassrooms.com/fr/courses/3504441-introduction-a-jquery) [Certification]()  
+5. Un site web dynamique avec jQuery [Syllabus](https://openclassrooms.com/fr/courses/1567926-un-site-web-dynamique-avec-jquery) *No certification on this course*  
+6. Découvrez le fonctionnement des algorythmes [Syllabus](https://openclassrooms.com/fr/courses/4366701-decouvrez-le-fonctionnement-des-algorithmes) [Certification](https://github.com/s-manguy/diploma/blob/main/WEB-DEVELOPPER/certificate-algorythmes-7847288853.pdf)  
+7. Adoptez Visual studio comme environnement de développement[Syllabus]()[Certificate(https://github.com/s-manguy/diploma/blob/main/WEB-DEVELOPPER/certificate-visual-studio-8724866019.pdf)
 ## Skills
