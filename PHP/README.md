@@ -1,11 +1,8 @@
-TO MODIFY
-
-# Web developer course
-[OpenClassrooms Web developer course / formation Développeur d'application PHP & Symfony OpenClassrooms](https://openclassrooms.com/fr/paths/59-developpeur-dapplication-php-symfony)  
+# PHP & Symfony apps developer course / formation de développeur d'applications PHP & Symfony
+[OpenClassrooms PHP & Symfony apps developer course / formation Développeur d'application PHP & Symfony OpenClassrooms](https://openclassrooms.com/fr/paths/59-developpeur-dapplication-php-symfony)  
 [The course Certification / Certifications](https://github.com/s-manguy/diploma/blob/main/FRONT-END/sandrine-manguy-certification-Front-End-apps.png)
 
-## Syllabus of the course
-
+## Syllabus of the course / contenu de la formation
 1. Apprenez à apprendre [Syllabus](https://openclassrooms.com/fr/courses/4312781-apprenez-a-apprendre) **[Certification](https://github.com/s-manguy/diploma/blob/main/PHP/certificate-apprendre-5054820055.pdf)**  
 1. Comprendre le web [Syllabus](https://openclassrooms.com/fr/courses/1946386-comprendre-le-web) **[Certification](https://github.com/s-manguy/diploma/blob/main/PHP/certificate-comprendre-web-2660422636.pdf)**  
 1. Développez vos soft skills [Syllabus](https://openclassrooms.com/fr/courses/6692406-developpez-vos-soft-skills) **[Certification](https://github.com/s-manguy/diploma/blob/main/PHP/certificate-soft-skills-2595028589.pdf)**  
@@ -42,4 +39,8 @@ TO MODIFY
 5. Appliquer le principe du Domain Driven Design [Syllabus](https://openclassrooms.com/fr/courses/5647281-appliquez-le-principe-du-domain-driven-design-a-votre-application) **[Certification](https://github.com/s-manguy/diploma/blob/main/FRONT-END/certificate-domain-driven-design-8071204902.pdf)** 
 6. Se maintenir à jour en développement **[Certification](https://github.com/s-manguy/diploma/blob/main/PHP/certificate-se-maintenir-a-jour-developpement-1330322190.pdf )**
 
-## Skills
+## Skills / Compétences
+* HTML5 & CSS3
+* Bootstrap
+* Wordpress, Elementor
+* Project management / Gestion de projet : waterfall & agile methods, méthodes en cascade et agiles
