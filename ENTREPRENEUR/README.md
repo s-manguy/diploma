@@ -28,9 +28,10 @@ TO MODIFY
 1. https://openclassrooms.com/fr/courses/4963261-realisez-des-reportings-et-des-budgets-pour-convaincre  
 1. https://openclassrooms.com/fr/courses/5191546-construisez-un-business-plan  
 1. https://openclassrooms.com/fr/courses/5177201-choisissez-le-statut-juridique-adapte-a-votre-activite  
-1. https://openclassrooms.com/fr/courses/3013816-initiez-vous-au-marketing-digital  
-1. https://openclassrooms.com/fr/courses/6068011-elaborez-votre-campagne-publicitaire  
-1. https://openclassrooms.com/fr/courses/5192206-accelerez-la-croissance-de-votre-activite-avec-le-growth-hacking  
+1. trésorerie 
+3. https://openclassrooms.com/fr/courses/3013816-initiez-vous-au-marketing-digital  
+4. https://openclassrooms.com/fr/courses/6068011-elaborez-votre-campagne-publicitaire  
+5. https://openclassrooms.com/fr/courses/5192206-accelerez-la-croissance-de-votre-activite-avec-le-growth-hacking  
 
 ### More validated courses
 1. storytelling
