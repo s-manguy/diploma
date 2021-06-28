@@ -1,38 +1,47 @@
 TO MODIFY
 
-# Web developer course
-[More information on the OpenClassrooms Web developer course](https://openclassrooms.com/fr/paths/185-developpeur-web)  
-[The course Certification](https://github.com/s-manguy/diploma/blob/main/WEB-DEVELOPPER/sandrine-manguy-certification-WebDevelopper.png)
+# Formation Entrepreneur
+*Cette formation de niveau I - 7 (Bac+5) n'est plus dispensée.*
+[The course Certification](https://github.com/s-manguy/diploma/blob/main/ENTREPRENEUR/sandrine-manguy-certifications-Entrepreneur.png)
 
-## Syllabus of the course
+## Contenu du cours
 1. Apprenez à apprendre [Syllabus](https://openclassrooms.com/fr/courses/4312781-apprenez-a-apprendre) [Certification]()  
-1. Comprendre le web [Syllabus](https://openclassrooms.com/fr/courses/1946386-comprendre-le-web) [Certification]()  
-1. Mettre en place une veille informationnelle [Syllabus](https://openclassrooms.com/fr/courses/4805776-mettez-en-place-un-systeme-de-veille-informationnelle) [Certification]()   
-1. Développez vos soft skills [Syllabus](https://openclassrooms.com/fr/courses/6692406-developpez-vos-soft-skills) [Certification]()  
-1. Découvrez les métiers de développeur [Syllabus](https://openclassrooms.com/fr/courses/6817086-decouvrez-les-metiers-de-developpeur) [Certification]()  
+https://openclassrooms.com/fr/courses/5106001-developpez-votre-resilience  
+https://openclassrooms.com/fr/courses/3044291-decodez-ladn-de-linnovateur  
+https://openclassrooms.com/fr/courses/4421146-animez-un-atelier-de-creativite  
+1. Mettez en place une veille informationnelle [Syllabus](https://openclassrooms.com/fr/courses/4805776-mettez-en-place-un-systeme-de-veille-informationnelle) [Certification]() 
+https://openclassrooms.com/fr/courses/5191526-realisez-votre-business-model-canvas  
+https://openclassrooms.com/fr/courses/6067991-realisez-une-etude-de-marche  
+https://openclassrooms.com/fr/courses/5617106-maitrisez-votre-politique-de-prix  
+https://openclassrooms.com/fr/courses/4577696-prenez-la-parole-en-public  
+https://openclassrooms.com/fr/courses/3013891-ameliorez-limpact-de-vos-presentations  
+https://openclassrooms.com/fr/courses/5754261-developpez-votre-reseau-professionnel  
+https://openclassrooms.com/fr/courses/5191621-redigez-votre-pacte-dactionnaires  
+https://openclassrooms.com/fr/courses/5164316-travaillez-efficacement-en-equipe  
+https://openclassrooms.com/fr/courses/4104731-developpez-votre-leadership-pour-mieux-diriger  
+https://openclassrooms.com/fr/courses/4296701-gerez-un-projet-digital-avec-une-methodologie-en-cascade  
+https://openclassrooms.com/fr/courses/5192236-menez-une-recherche-utilisateur  
+https://openclassrooms.com/fr/courses/4750821-initiez-vous-aux-techniques-commerciales  
+https://openclassrooms.com/fr/courses/5164356-construisez-votre-strategie-commerciale-dindependant  
+https://openclassrooms.com/fr/courses/4781491-testez-vos-idees-avec-le-lean-prototyping  
+https://openclassrooms.com/fr/courses/5185316-gerez-votre-comptabilite-dindependant  
+https://openclassrooms.com/fr/courses/4963261-realisez-des-reportings-et-des-budgets-pour-convaincre  
+https://openclassrooms.com/fr/courses/5191546-construisez-un-business-plan  
+https://openclassrooms.com/fr/courses/5177201-choisissez-le-statut-juridique-adapte-a-votre-activite  
+https://openclassrooms.com/fr/courses/3013816-initiez-vous-au-marketing-digital  
+https://openclassrooms.com/fr/courses/6068011-elaborez-votre-campagne-publicitaire  
+https://openclassrooms.com/fr/courses/5192206-accelerez-la-croissance-de-votre-activite-avec-le-growth-hacking  
 
-1. Apprenez à utiliser la ligne de commande dans un terminal [Syllabus](https://openclassrooms.com/fr/courses/6173491-apprenez-a-utiliser-la-ligne-de-commande-dans-un-terminal) [Certification]()  
-1. Utilisez git & Github pour vos projets de développement [Syllabus](https://openclassrooms.com/fr/courses/5641721-utilisez-git-et-github-pour-vos-projets-de-developpement) [Certification]()  
-1. Apprenez à créer votre site avec HTML5 et CSS3 [Syllabus](https://openclassrooms.com/fr/courses/1603881-apprenez-a-creer-votre-site-web-avec-html5-et-css3) [Certification]()  
-1. Découpez et intégrez une maquette [Syllabus](https://openclassrooms.com/fr/courses/3504431-decoupez-et-integrez-une-maquette) [Certification]()  
-1. Simplifiez-vous le css avec sass [Syllabus](https://openclassrooms.com/fr/courses/6106181-simplifiez-vous-le-css-avec-sass) [Certification]()  
-1. Créez des animations css modernes [Syllabus](https://openclassrooms.com/fr/courses/5919246-creez-des-animations-css-modernes) [Certification]()  
-1. Optimisez le référencement de votre site SEO en améliorant ses performances techniques [Syllabus](https://openclassrooms.com/fr/courses/5922626-optimisez-le-referencement-de-votre-site-seo-en-ameliorant-ses-performances-techniques) [Certification]()  
-1. Augmentez votyre trafic grâce au référencment naturel [Syllabus](https://openclassrooms.com/fr/courses/5561431-augmentez-votre-trafic-grace-au-referencement-naturel-seo) [Certification]()  
-1. Concevez un contenu web accessible [Syllabus](https://openclassrooms.com/fr/courses/6691346-concevez-un-contenu-web-accessible) [Certification]()  
-1. Apprenez à programmer avec Javascript [Syllabus](https://openclassrooms.com/fr/courses/6175841-apprenez-a-programmer-avec-javascript) [Certification]()  
-1. Ecrivez du javascript pour le web [Syllabus](https://openclassrooms.com/fr/courses/5543061-ecrivez-du-javascript-pour-le-web) [Certification]()  
-1. Créez des sites web responsive avec Bootstrap 4 [Syllabus](https://openclassrooms.com/fr/courses/6391096-creez-des-sites-web-responsive-avec-bootstrap-4) [Certification]()  
-1. Passez au full stack avec node.js, express et MongoDB [Syllabus](https://openclassrooms.com/fr/courses/6390246-passez-au-full-stack-avec-node-js-express-et-mongodb) [Certification]()  
-1. Sécurisez vos applications web avec l'OWASP [Syllabus](https://openclassrooms.com/fr/courses/6179306-securisez-vos-applications-web-avec-lowasp) [Certification]() 
-1. Adoptez les API Rest pour vos projets web [Syllabus](https://openclassrooms.com/fr/courses/6573181-adoptez-les-api-rest-pour-vos-projets-web) [Certification]()  
-1. Administrez vos bases de données avec MySql [Syllabus](https://openclassrooms.com/fr/courses/1959476-administrez-vos-bases-de-donnees-avec-mysql) [Certification]() 
-1. Créez une application web avec vue.js [Syllabus](https://openclassrooms.com/fr/courses/6390311-creez-une-application-web-avec-vue-js) [Certification]()  
+### More validated courses
 
 
-## More validated courses
-1. Utilisez les effets avancés de css sur votre site [Syllabus](https://openclassrooms.com/fr/courses/2745636-utilisez-les-effets-avances-de-css-sur-votre-site) *No certification on this course*  
-2. Initiez-vous à jQuery [Syllabus](https://openclassrooms.com/fr/courses/3504441-introduction-a-jquery) [Certification]()  
-3. Un site web dynamique avec jQuery [Syllabus](https://openclassrooms.com/fr/courses/1567926-un-site-web-dynamique-avec-jquery) *No certification on this course*  
-4. Découvrez le fonctionnement des algorythmes [Syllabus](https://openclassrooms.com/fr/courses/4366701-decouvrez-le-fonctionnement-des-algorithmes) [Certification]()  
 ## Skills
+* Soft skills : résilience, travail en équipe, gestion de conflits, leadership,
+* Créativité :  atelier de créativité, recherche utilisateur, lean prototyping
+* Gestion : Business Model, Business plan
+* Comptabilité : comptabilité d'indépendant, opérations courantes, fin d'exercice, trésorerie
+* Juridique : pacte actionnaire, statut, 
+* Communication : prise de parole en public, storytelling, campagne publicitaire, reportings et budgets, présentations, 
+* Marketing : marketing digital, étude de marché, growth hacking,  
+* Gestion de projet : méthodologie en cascade
+* Techniques commerciales : technique, stratégie, réseau professionnel
