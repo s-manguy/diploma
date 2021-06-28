@@ -33,7 +33,7 @@ TO MODIFY
 1. Organisez votre application avec la logique Redux [Syllabus](https://openclassrooms.com/fr/courses/5511091-organisez-votre-application-avec-la-logique-redux) [Certification](https://github.com/s-manguy/diploma/blob/main/FRONT-END/Certificate-Redux-2967299340.pdf)  
 
 
-## More validated courses
+### More validated courses
 26. Apprenez à utiliser la ligne de commande dans un terminal [Syllabus](https://openclassrooms.com/fr/courses/6173491-apprenez-a-utiliser-la-ligne-de-commande-dans-un-terminal) [Certification](https://github.com/s-manguy/diploma/blob/main/FRONT-END/certificate-ligne-de-commande-5733338794.pdf)
 1. Utilisez les effets avancés de css sur votre site [Syllabus](https://openclassrooms.com/fr/courses/2745636-utilisez-les-effets-avances-de-css-sur-votre-site) *No certification on this course* 
 1. Créez des pages web interactives [Syllabus](https://openclassrooms.com/courses/creez-des-pages-web-interactives-avec-javascript) [Certificate](https://github.com/s-manguy/diploma/blob/main/FRONT-END/certificate-web-interactif-javascript-7781138874.pdf)  
