@@ -18,7 +18,7 @@ Find in this repository all my **Diploma, Certifications, Knowledges and Skills*
 
 ### Back-End
 *coming soon :* freeCodeCamp APIs and Microservices Certification  
-*coming soon :* Quality Assurance Certification  
-*coming soon :* Infomration Security Certification  
+*coming soon :* freeCodeCamp Quality Assurance Certification  
+*coming soon :* freeCodeCamp Infomration Security Certification  
 *in progress :* OpenClassooms **PHP & Symfony aps** Certifications, level III - 5 (Bac+2)*     
 2020-2020 : OpenClassooms **web developper** Certification, level III - 5 (Bac+2) 
