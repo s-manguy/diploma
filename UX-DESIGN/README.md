@@ -8,8 +8,8 @@
 1. Communiquez et formalisez vos idées par le storytelling [Syllabus](https://openclassrooms.com/fr/courses/5238041-communiquez-et-formalisez-vos-idees-par-le-storytelling) [Certification]()  
 1. Initiez-vous au Design thinking [Syllabus](https://openclassrooms.com/fr/courses/3013836-initiez-vous-au-design-thinking) [Certification]()  
 1. Améliorez l'impact de vos présentations [Syllabus](https://openclassrooms.com/fr/courses/3013891-ameliorez-limpact-de-vos-presentations) [Certification]()  
-1. Mettre en place une veille informationnelle [Syllabus](https://openclassrooms.com/fr/courses/4805776-mettez-en-place-un-systeme-de-veille-informationnelle) [Certification]()  
-1. Apprpriez-vous la démarche UX en pratique [Syllabus](https://openclassrooms.com/fr/courses/3938146-appropriez-vous-la-demarche-ux-en-pratique) [Certification]()  
+1. Mettre en place une veille informationnelle [Syllabus](https://openclassrooms.com/fr/courses/4805776-mettez-en-place-un-systeme-de-veille-informationnelle) [Certification]() 
+1. Appropriez-vous la démarche UX en pratique [Syllabus](https://openclassrooms.com/fr/courses/3938146-appropriez-vous-la-demarche-ux-en-pratique) [Certification]()  
 1. Menez une recherche utilisateur [Syllabus](https://openclassrooms.com/fr/courses/5192236-menez-une-recherche-utilisateur) [Certification]()  
 1. Appliquez la psychologie au design [Syllabus](https://openclassrooms.com/fr/courses/5248811-appliquez-la-psychologie-au-design) [Certification]()  
 1. Analysez les données pour prendre des décisions de design [Syllabus](https://openclassrooms.com/fr/courses/5248881-analysez-des-donnees-pour-prendre-des-decisions-de-design) [Certification]()  
@@ -27,6 +27,8 @@
 1. Testez vos idées avec le lean prototyping [Syllabus](https://openclassrooms.com/fr/courses/4781491-testez-vos-idees-avec-le-lean-prototyping) [Certification]()  
 1. Elaborez votre stratégie de recherche d'emploi [Syllabus](https://openclassrooms.com/fr/courses/5218221-elaborez-votre-strategie-de-recherche-demploi) [Certification]()  
 
+### More courses / cours validés en supplément
+Initiez-vous au marketing digital [Syllabus]() [Certificate]()
  
 ## Skills / Compétences
 * Design Thinking
