@@ -22,13 +22,13 @@ More information / + informations : [OpenClassrooms PHP & Symfony apps developer
 1. Adoptez une architecture MVC en PHP [Syllabus](https://openclassrooms.com/fr/courses/4670706-adoptez-une-architecture-mvc-en-php) **validated/validé**
 1. Programmez en orienté objet en PHP [Syllabus](https://openclassrooms.com/fr/courses/1665806-programmez-en-oriente-objet-en-php) *in progress/en cours*  
 1. Administrez vos bases de données avec MySql [Syllabus](https://openclassrooms.com/fr/courses/1959476-administrez-vos-bases-de-donnees-avec-mysql) **[Certification](https://github.com/s-manguy/diploma/blob/main/PHP/certificate-mysql-8450004853.pdf)** 
-1. Créez une application web en PHP de qualité professionnelle [Syllabus](https://openclassrooms.com/fr/courses/6031956-creez-une-application-web-en-php-de-qualite-professionnelle)  
-1. Construisez un site à l'aide du framework Symfony [Syllabus](https://openclassrooms.com/fr/courses/5489656-construisez-un-site-web-a-l-aide-du-framework-symfony-5)  
-1. Construisez une API Rest avec Sympfony [Syllabus](https://openclassrooms.com/fr/courses/4087036-construisez-une-api-rest-avec-symfony)  
+1. *Créez une application web en PHP de qualité professionnelle [Syllabus](https://openclassrooms.com/fr/courses/6031956-creez-une-application-web-en-php-de-qualite-professionnelle) To be done / à faire* 
+1. *Construisez un site à l'aide du framework Symfony [Syllabus](https://openclassrooms.com/fr/courses/5489656-construisez-un-site-web-a-l-aide-du-framework-symfony-5) To be done / à faire*  
+1. *Construisez une API Rest avec Sympfony [Syllabus](https://openclassrooms.com/fr/courses/4087036-construisez-une-api-rest-avec-symfony) To be done / à faire*  
 1. Adoptez les API Rest pour vos projets web [Syllabus](https://openclassrooms.com/fr/courses/6573181-adoptez-les-api-rest-pour-vos-projets-web) **[Certification](https://github.com/s-manguy/diploma/blob/main/PHP/certificate-api-rest-4151434869.pdf)**  
-1. Testez et suivez l'état de votre application PHP [syllabus](https://openclassrooms.com/fr/courses/4087056-testez-et-suivez-letat-de-votre-application-php)  
-1. Testez fonctionnellement votre application Symfony [Syllabus](https://openclassrooms.com/fr/courses/4087076-testez-fonctionnellement-votre-application-symfony)  
-1. Surveillez la performance de votre application PHP [Syllabus](https://openclassrooms.com/fr/courses/4939956-surveillez-la-performance-de-votre-application-php)  
+1. *Testez et suivez l'état de votre application PHP [syllabus](https://openclassrooms.com/fr/courses/4087056-testez-et-suivez-letat-de-votre-application-php) To be done / à faire*  
+1. *Testez fonctionnellement votre application Symfony [Syllabus](https://openclassrooms.com/fr/courses/4087076-testez-fonctionnellement-votre-application-symfony) To be done / à faire*  
+1. *Surveillez la performance de votre application PHP [Syllabus](https://openclassrooms.com/fr/courses/4939956-surveillez-la-performance-de-votre-application-php) To be done / à faire*  
 1. Rédigez votre rapport de stage [Syllabus](https://openclassrooms.com/fr/courses/4466756-redigez-votre-rapport-de-stage) *No Certification/ pas de certification délivrée pour ce cours*    
 1. Préparez-vous aux tests techniques pour devenir développeur [Syllabus](https://openclassrooms.com/fr/courses/6045521-preparez-vous-aux-tests-techniques-pour-devenir-developpeur) **[Certification](https://github.com/s-manguy/diploma/blob/main/PHP/certificate-tests-techniques-6246894373.pdf)**
 2. Mettre en place une veille informationnelle [Syllabus](https://openclassrooms.com/fr/courses/4805776-mettez-en-place-un-systeme-de-veille-informationnelle) **[Certification](https://github.com/s-manguy/diploma/blob/main/PHP/certificate-veille-informationnelle-2061319342.pdf)**
