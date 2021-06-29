@@ -7,7 +7,7 @@ TO MODIFY
 ## Contenu du cours
 1. Apprenez à apprendre [Syllabus](https://openclassrooms.com/fr/courses/4312781-apprenez-a-apprendre) [Certification]()  
 1. https://openclassrooms.com/fr/courses/5106001-developpez-votre-resilience 
-2. Développez votre Personal branding 
+2. Développez votre Personal branding  https://openclassrooms.com/fr/courses/4698761-developpez-votre-personal-branding
 3. https://openclassrooms.com/fr/courses/3044291-decodez-ladn-de-linnovateur  
 4. Animez un atelier de créativité [Syllabus](https://openclassrooms.com/fr/courses/4421146-animez-un-atelier-de-creativite) [Certification]()   
 5. Mettez en place une veille informationnelle [Syllabus](https://openclassrooms.com/fr/courses/4805776-mettez-en-place-un-systeme-de-veille-informationnelle) [Certification]() 
