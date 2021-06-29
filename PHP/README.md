@@ -50,5 +50,6 @@ More information / + informations : [OpenClassrooms PHP & Symfony apps developer
 * Project management / Gestion de projet : waterfall & agile methods, méthodes en cascade et agiles
 * UML & database / UML et base données
 * MySql, PostgreSql
+* SQL Power Architect, SQuirrel SQL
 * PHP (MVC & POO)
 
