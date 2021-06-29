@@ -1,15 +1,15 @@
 *in progress*
 
-# Diploma / diplômes
+# Diploma/Diplômes
 
 Find in this repository all my **Diploma, Certifications, Knowledges and Skills**.
 
-## Designer / Web designer
+## Web Designer / Designer web
 2020-2020 : OpenCLassrooms **UX Designer** Certifications, level I - 7 (Bac+5)  
 1994-1996 : **Designer** Diploma, level III - 5 (Bac+2)  
 1991-1994 : **Baccalauréat Arts Appliqués à l'industrie** Diploma, level IV - 4 (Bac) : architecture, design, illustration, fashion design / mode & textile, photography, video...
 
-## Developer / développeur
+## Web Developer / Développeur web
 ### Front-End
 2021-2021 : freeCodeCamp **Data Visualization** Certification  
 2021-2021 : freeCodeCamp **Front-End Libraries** Certification  
@@ -25,7 +25,7 @@ Find in this repository all my **Diploma, Certifications, Knowledges and Skills*
 *in progress :* OpenClassooms **PHP & Symfony aps** Certifications, level III - 5 (Bac+2)      
 2020-2020 : OpenClassooms **web developper** Certification, level III - 5 (Bac+2) 
 
-# Skills / Compétences
+# Skills/Compétences
 ## Hard skills
 * Design/*création*
   * Design thinking
