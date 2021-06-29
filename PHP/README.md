@@ -46,7 +46,7 @@ More information / + informations : [OpenClassrooms PHP & Symfony apps developer
 * HTML5 & CSS3
 * Bootstrap
 * Wordpress, Elementor
-* Code from a mock-up / Découpez et intégrer une maquette
+* Code from a mock-up / Découper et intégrer une maquette
 * Project management / Gestion de projet : waterfall & agile methods, méthodes en cascade et agiles
 * UML & database / UML et base données
 * MySql, PostgreSql
