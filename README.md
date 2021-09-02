@@ -28,11 +28,11 @@ Find in this repository all my **Diploma, Certifications, Knowledges and Skills*
 # Skills/Compétences
 ## Hard skills
 * Design/*création*
-  * Design thinking
-  * UX design 
+  * Design thinking: trends/tendances, moodboard/planche d'ambiance, color range / gamme de couleurs, typography/typographie, sketches/croquis...
+  * UX design: research/recherche, personas, wireframes...
   * Atomic Design
   * Material Design
-  * Project management / Gestion de projet : UX mapping / recherche utilisateur, audit UX, Data Analysis / analyse de données
+  * Project management / Gestion de projet : UX mapping / recherche utilisateur, audit UX, Data Analysis / analyse de données, retroplanning/rétroplanning
   * Utils/outils : pen & paper / papier et crayon, Adobe Photoshop, Adobe Illustrator, Adobe Indesign, Adobe XD, Figma
 * Development / Développement
   * RWD
