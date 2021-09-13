@@ -42,6 +42,7 @@
 1. Se maintenir à jour en développement [Certification](https://github.com/s-manguy/diploma/blob/main/FRONT-END/certificate-se-maintenir-a-jour-developpement-1330322190.pdf)
 1. Préparez-vous aux tests techniques pour devenir développeur [Syllabus](https://openclassrooms.com/fr/courses/6045521-preparez-vous-aux-tests-techniques-pour-devenir-developpeur) [Certification](https://github.com/s-manguy/diploma/blob/main/FRONT-END/certificate-tests-techniques-6246894373.pdf)
 1. Créez un site moderne et professionnel avec Wordpress 5 [Syllabus](https://openclassrooms.com/fr/courses/5489551-creez-un-site-moderne-et-professionnel-avec-wordpress-5) [Certification](https://github.com/s-manguy/diploma/blob/main/FRONT-END/certificate-wordpress-moderne-professionnel-9932423001.pdf)
+1. Débutez avec React [Syllabus](https://openclassrooms.com/fr/courses/7008001-debutez-avec-react) [Certification]()
   
 ## Skills / compétences
 * Update skills / Mettre à jour ses connaissances - Veille informationnelle
