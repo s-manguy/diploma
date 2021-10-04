@@ -24,7 +24,7 @@ Find in this repository all my **Diploma, Certifications, Knowledges and Skills*
 
 # Skills/Compétences
 ## Hard skills
-* Design/*création*
+* **Design/*création***
   * Design thinking: trends/tendances, moodboard/planche d'ambiance, color range / gamme de couleurs, typography/typographie, sketches/croquis...
   * UX design: research/recherche, personas, wireframes...
   * Atomic Design
@@ -34,7 +34,7 @@ Find in this repository all my **Diploma, Certifications, Knowledges and Skills*
   * Project management / Gestion de projet : UX mapping / recherche utilisateur, audit UX, Data Analysis / analyse de données, retroplanning/rétroplanning
   * Utils/outils : pen & paper / papier et crayon, markers, watercolors/Aquarelle, acrylic paint / peinture acrylique...
   * Softwares/logiciels : Adobe Photoshop, Adobe Illustrator, Adobe Indesign, Adobe XD, Figma, Inkscape, Gimp, Scribus.
-* Development / Développement
+* **Development / Développement**
   * RWD
   * Coding from mock-up / Intégration
   * Front-End : HTML5, CSS3, Sass, Bootstrap, JavaScript, jQuery, Vue.js, React.js, Redux, d3.js
