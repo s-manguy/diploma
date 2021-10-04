@@ -11,7 +11,7 @@ Find in this repository all my **Diploma, Certifications, Knowledges and Skills*
 
 ## Web Developer / Développeur web
 ### Front-End
-2021-2021 : freeCodeCamp **RWD, JavaScript, Front-End Libraries & Data Visualization** Certifications  
+2021-2021 : freeCodeCamp **RWD, JavaScript algorythms and Data Structures , Front-End Libraries & Data Visualization** Certifications  
 2020-2020 : OpenClassrooms **Front-end aps** Certifications, level II - 6 (Bac+4)  
 2020-2020 : OpenClassooms **web developper** Certification, level III - 5 (Bac+2) 
 
