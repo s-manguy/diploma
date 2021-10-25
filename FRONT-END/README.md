@@ -42,11 +42,11 @@
 1. Se maintenir à jour en développement [Certification](https://github.com/s-manguy/diploma/blob/main/FRONT-END/certificate-se-maintenir-a-jour-developpement-1330322190.pdf)
 1. Préparez-vous aux tests techniques pour devenir développeur [Syllabus](https://openclassrooms.com/fr/courses/6045521-preparez-vous-aux-tests-techniques-pour-devenir-developpeur) [Certification](https://github.com/s-manguy/diploma/blob/main/FRONT-END/certificate-tests-techniques-6246894373.pdf)
 1. Créez un site moderne et professionnel avec Wordpress 5 [Syllabus](https://openclassrooms.com/fr/courses/5489551-creez-un-site-moderne-et-professionnel-avec-wordpress-5) [Certification](https://github.com/s-manguy/diploma/blob/main/FRONT-END/certificate-wordpress-moderne-professionnel-9932423001.pdf)
-1. Débutez avec React [Syllabus](https://openclassrooms.com/fr/courses/7008001-debutez-avec-react) [Certification](https://github.com/s-manguy/diploma/blob/main/FRONT-END/Certificate-reactjs-cra-4031862868.pdf)[Syllabus](https://openclassrooms.com/fr/courses/5489551-creez-un-site-moderne-et-professionnel-avec-wordpress-5) [Certification](https://github.com/s-manguy/diploma/blob/main/FRONT-END/certificate-wordpress-moderne-professionnel-9932423001.pdf)
-2. Créez une application React complète[Syllabus](https://openclassrooms.com/fr/courses/7150606-creez-une-application-react-complete) [Certification](https://github.com/s-manguy/diploma/blob/main/FRONT-END/certificate-wordpress-moderne-professionnel-9932423001.pdf)
-3. Déboguez l'interface de voter site internet[Syllabus](https://openclassrooms.com/fr/courses/7159296-deboguez-l-interface-de-votre-site-internet) [Certification](https://github.com/s-manguy/diploma/blob/main/FRONT-END/certificate-wordpress-moderne-professionnel-9932423001.pdf)
-4. Testez vos applications Front End avec JavaScript[Syllabus](https://openclassrooms.com/fr/courses/7159296-deboguez-l-interface-de-votre-site-internet) [Certification](https://github.com/s-manguy/diploma/blob/main/FRONT-END/certificate-wordpress-moderne-professionnel-9932423001.pdf)
-5. Utilisez le State Manager Redux  pour gérer l'état de vos applications[Syllabus](https://openclassrooms.com/fr/courses/7150626-utilisez-le-state-manager-redux-pour-gerer-l-etat-de-vos-applications) [Certification](https://github.com/s-manguy/diploma/blob/main/FRONT-END/certificate-wordpress-moderne-professionnel-9932423001.pdf)
+1. Débutez avec React [Syllabus](https://openclassrooms.com/fr/courses/7008001-debutez-avec-react) [Certification](https://github.com/s-manguy/diploma/blob/main/FRONT-END/Certificate-reactjs-cra-4031862868.pdf)[Syllabus](https://openclassrooms.com/fr/courses/5489551-creez-un-site-moderne-et-professionnel-avec-wordpress-5) [Certification](https://github.com/s-manguy/diploma/blob/main/FRONT-END/certificate-debutez-avec-react-4031862868.pdf)
+2. Créez une application React complète [Syllabus](https://openclassrooms.com/fr/courses/7150606-creez-une-application-react-complete) [Certification](https://github.com/s-manguy/diploma/blob/main/FRONT-END/certificate-creer-application-react-complete-6322291630.pdf)
+3. Déboguez l'interface de voter site internet [Syllabus](https://openclassrooms.com/fr/courses/7159296-deboguez-l-interface-de-votre-site-internet) [Certification](https://github.com/s-manguy/diploma/blob/main/FRONT-END/certificate-deboguer-interface-2355175623.pdf)
+4. Testez vos applications Front End avec JavaScript [Syllabus](https://openclassrooms.com/fr/courses/7159296-deboguez-l-interface-de-votre-site-internet) [Certification](https://github.com/s-manguy/diploma/blob/main/FRONT-END/certificate-tester-applications-front-end-6990160265.pdf)
+5. Utilisez le State Manager Redux  pour gérer l'état de vos applications [Syllabus](https://openclassrooms.com/fr/courses/7150626-utilisez-le-state-manager-redux-pour-gerer-l-etat-de-vos-applications) [Certification](https://github.com/s-manguy/diploma/blob/main/FRONT-END/certificate-redux-6268428650.pdf)
   
 ## Skills / compétences
 * Update skills / Mettre à jour ses connaissances - Veille informationnelle
@@ -63,7 +63,7 @@
 * JavaScript
 * Accessibility / accessibilité
 * TDD
-* Tests : Jasmine, Jest, Chai, Enzyme, Sinon
+* Tests : Jasmine, Jest, DOM Testing Library & React Testing Library, Nightwatch, Mock Service Worker, *Chai, Enzyme, Sinon*
 * Project management : agility and waterfall methods / Gestion de projet : méthodes agiles et en cascade
 * Technical specifications / Cahier des charges fonctionnel
 * Technical documentation / Documentation technique
