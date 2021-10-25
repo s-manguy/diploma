@@ -34,12 +34,15 @@ Find in this repository all my **Diploma, Certifications, Knowledges and Skills*
   * Project management / Gestion de projet : UX mapping / recherche utilisateur, audit UX, Data Analysis / analyse de données, retroplanning/rétroplanning
   * Utils/outils : pen & paper / papier et crayon, markers, watercolors/Aquarelle, acrylic paint / peinture acrylique...
   * Softwares/logiciels : Adobe Photoshop, Adobe Illustrator, Adobe Indesign, Adobe XD, Figma, Inkscape, Gimp, Scribus.
-* **Development / Développement**
+* **Development/*développement***
   * RWD
+  * Accessibility
   * Coding from mock-up / Intégration
+  * EDI : VisualStudioCode
   * Front-End : HTML5, CSS3, Sass, Bootstrap, JavaScript, jQuery, Vue.js, React.js, Redux, d3.js
   * Back-End : node.js, Express, MongoDB, MySql, PostgreSql, PHP
-  * Wordpress, Elementor
+  * Testing library: Jest, DOM/React Testing Library, Nightwatch
+  * CMS: Wordpress, Elementor
   * Project management / Gestion de projet : DDD, UML, technical specifications / cahier des charges, waterfall & agile methods / méthodes en cascade et agiles
   * Technical Documentation / documentation technique
 ## Soft skills
