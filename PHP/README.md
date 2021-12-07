@@ -20,9 +20,9 @@ More information / + informations : [OpenClassrooms PHP & Symfony apps developer
 1. Utilisez git & Github pour vos projets de développement [Syllabus](https://openclassrooms.com/fr/courses/5641721-utilisez-git-et-github-pour-vos-projets-de-developpement) **[Certification]()**  
 1. Concevez votre site web avec PHP et MySql [Syllabus](https://openclassrooms.com/fr/courses/918836-concevez-votre-site-web-avec-php-et-mysql) **validated/validé**
 1. Adoptez une architecture MVC en PHP [Syllabus](https://openclassrooms.com/fr/courses/4670706-adoptez-une-architecture-mvc-en-php) **validated/validé**
-1. Programmez en orienté objet en PHP [Syllabus](https://openclassrooms.com/fr/courses/1665806-programmez-en-oriente-objet-en-php) *in progress/en cours*  
+1. Programmez en orienté objet en PHP [Syllabus](https://openclassrooms.com/fr/courses/1665806-programmez-en-oriente-objet-en-php) *[Certification](https://github.com/s-manguy/diploma/blob/main/PHP/certificate-php-poo-9385077355.pdf)**  
 1. Administrez vos bases de données avec MySql [Syllabus](https://openclassrooms.com/fr/courses/1959476-administrez-vos-bases-de-donnees-avec-mysql) **[Certification](https://github.com/s-manguy/diploma/blob/main/PHP/certificate-mysql-8450004853.pdf)** 
-1. *Créez une application web en PHP de qualité professionnelle [Syllabus](https://openclassrooms.com/fr/courses/6031956-creez-une-application-web-en-php-de-qualite-professionnelle) To be done / à faire* 
+1. *Écrivez du PHP maintenable avec les principes SOLID et les design patterns [Syllabus](https://openclassrooms.com/fr/courses/6031956-creez-une-application-web-en-php-de-qualite-professionnelle) **[Certification](https://github.com/s-manguy/diploma/blob/main/PHP/certificate-solid-7428520702.pdf)**  
 1. *Construisez un site à l'aide du framework Symfony [Syllabus](https://openclassrooms.com/fr/courses/5489656-construisez-un-site-web-a-l-aide-du-framework-symfony-5) To be done / à faire*  
 1. *Construisez une API Rest avec Sympfony [Syllabus](https://openclassrooms.com/fr/courses/4087036-construisez-une-api-rest-avec-symfony) To be done / à faire*  
 1. Adoptez les API Rest pour vos projets web [Syllabus](https://openclassrooms.com/fr/courses/6573181-adoptez-les-api-rest-pour-vos-projets-web) **[Certification](https://github.com/s-manguy/diploma/blob/main/PHP/certificate-api-rest-4151434869.pdf)**  
