@@ -2,7 +2,7 @@
 More information / + informations : [OpenClassrooms PHP & Symfony apps developer course / formation Développeur d'application PHP & Symfony OpenClassrooms](https://openclassrooms.com/fr/paths/59-developpeur-dapplication-php-symfony) 
 
 
-[The course Certification / Certifications](https://github.com/s-manguy/diploma/blob/main/FRONT-END/sandrine-manguy-certification-Front-End-apps.png)
+[The course Certification / Certifications]()
 
 ## Syllabus of the course / contenu de la formation
 1. Apprenez à apprendre [Syllabus](https://openclassrooms.com/fr/courses/4312781-apprenez-a-apprendre) **[Certification](https://github.com/s-manguy/diploma/blob/main/PHP/certificate-apprendre-5054820055.pdf)**  
@@ -18,25 +18,25 @@ More information / + informations : [OpenClassrooms PHP & Symfony apps developer
 1. Débutez l'analyse logicielle avec UML [Syllabus](https://openclassrooms.com/fr/courses/2035826-debutez-lanalyse-logicielle-avec-uml) **[Certification](https://github.com/s-manguy/diploma/blob/main/FRONT-END/certificate-git-github-5599139215.pdf)**
 1. Modélisez et implémentez une base de données relationnelles avec UML [Syllabus](https://openclassrooms.com/fr/courses/4055451-modelisez-et-implementez-une-base-de-donnees-relationnelle-avec-uml) **[Certification](https://github.com/s-manguy/diploma/blob/main/PHP/certificate-UML-9518327322.pdf)**    
 1. Utilisez git & Github pour vos projets de développement [Syllabus](https://openclassrooms.com/fr/courses/5641721-utilisez-git-et-github-pour-vos-projets-de-developpement) **[Certification](https://github.com/s-manguy/diploma/blob/main/FRONT-END/certificate-git-github-5599139215.pdf)**  
-1. Concevez votre site web avec PHP et MySql [Syllabus](https://openclassrooms.com/fr/courses/918836-concevez-votre-site-web-avec-php-et-mysql) **validated/validé**
-1. Adoptez une architecture MVC en PHP [Syllabus](https://openclassrooms.com/fr/courses/4670706-adoptez-une-architecture-mvc-en-php) **validated/validé**
+1. Concevez votre site web avec PHP et MySql [Syllabus](https://openclassrooms.com/fr/courses/918836-concevez-votre-site-web-avec-php-et-mysql) **[Certification](https://github.com/s-manguy/diploma/blob/main/FRONT-END/certificate-php-mysql-1162704789.pdf)**  
+1. Adoptez une architecture MVC en PHP [Syllabus](https://openclassrooms.com/fr/courses/4670706-adoptez-une-architecture-mvc-en-php) **[Certification](https://github.com/s-manguy/diploma/blob/main/FRONT-END/certificate-php-mvc-7231988400.pdf)**  
 1. Programmez en orienté objet en PHP [Syllabus](https://openclassrooms.com/fr/courses/1665806-programmez-en-oriente-objet-en-php) **[Certification](https://github.com/s-manguy/diploma/blob/main/PHP/certificate-php-poo-9385077355.pdf)**  
 1. Administrez vos bases de données avec MySql [Syllabus](https://openclassrooms.com/fr/courses/1959476-administrez-vos-bases-de-donnees-avec-mysql) **[Certification](https://github.com/s-manguy/diploma/blob/main/PHP/certificate-mysql-8450004853.pdf)** 
 1. Écrivez du PHP maintenable avec les principes SOLID et les design patterns [Syllabus](https://openclassrooms.com/fr/courses/6031956-creez-une-application-web-en-php-de-qualite-professionnelle) **[Certification](https://github.com/s-manguy/diploma/blob/main/PHP/certificate-solid-7428520702.pdf)**  
-1. Construisez un site à l'aide du framework Symfony [Syllabus](https://openclassrooms.com/fr/courses/5489656-construisez-un-site-web-a-l-aide-du-framework-symfony-5) Syllabus](https://openclassrooms.com/fr/courses/5489656-construisez-un-site-web-a-l-aide-du-framework-symfony-5) **[Certification](certificate-symfony-8393274287.pdf)**  
+1. Construisez un site à l'aide du framework Symfony [Syllabus](https://openclassrooms.com/fr/courses/5489656-construisez-un-site-web-a-l-aide-du-framework-symfony-5) **[Certification](certificate-symfony-8393274287.pdf)**  
 1. *Construisez une API Rest avec Sympfony [Syllabus](https://openclassrooms.com/fr/courses/4087036-construisez-une-api-rest-avec-symfony) To be done / à faire*  
 1. Adoptez les API Rest pour vos projets web [Syllabus](https://openclassrooms.com/fr/courses/6573181-adoptez-les-api-rest-pour-vos-projets-web) **[Certification](https://github.com/s-manguy/diploma/blob/main/PHP/certificate-api-rest-4151434869.pdf)**  
 1. *Testez et suivez l'état de votre application PHP [syllabus](https://openclassrooms.com/fr/courses/4087056-testez-et-suivez-letat-de-votre-application-php) To be done / à faire*  
 1. *Testez fonctionnellement votre application Symfony [Syllabus](https://openclassrooms.com/fr/courses/4087076-testez-fonctionnellement-votre-application-symfony) To be done / à faire*  
 1. *Surveillez la performance de votre application PHP [Syllabus](https://openclassrooms.com/fr/courses/4939956-surveillez-la-performance-de-votre-application-php) To be done / à faire*  
-1. Rédigez votre rapport de stage [Syllabus](https://openclassrooms.com/fr/courses/4466756-redigez-votre-rapport-de-stage) *No Certification/ pas de certification délivrée pour ce cours*    
+1. Rédigez votre rapport de stage [Syllabus](https://openclassrooms.com/fr/courses/4466756-redigez-votre-rapport-de-stage) *Done-No Certification/ fait-pas de certification délivrée pour ce cours*    
 1. Préparez-vous aux tests techniques pour devenir développeur [Syllabus](https://openclassrooms.com/fr/courses/6045521-preparez-vous-aux-tests-techniques-pour-devenir-developpeur) **[Certification](https://github.com/s-manguy/diploma/blob/main/PHP/certificate-tests-techniques-6246894373.pdf)**
 2. Mettre en place une veille informationnelle [Syllabus](https://openclassrooms.com/fr/courses/4805776-mettez-en-place-un-systeme-de-veille-informationnelle) **[Certification](https://github.com/s-manguy/diploma/blob/main/PHP/certificate-veille-informationnelle-2061319342.pdf)**
 
 
 ### More validated courses / cours validés en supplément
 28. Apprenez à utiliser la ligne de commande dans un terminal [Syllabus](https://openclassrooms.com/fr/courses/6173491-apprenez-a-utiliser-la-ligne-de-commande-dans-un-terminal) **[Certification]()**  
-1. Utilisez les effets avancés de css sur votre site [Syllabus](https://openclassrooms.com/fr/courses/2745636-utilisez-les-effets-avances-de-css-sur-votre-site) *No certification on this course / Pas de certification délivrée pour ce cours*  
+1. Utilisez les effets avancés de css sur votre site [Syllabus](https://openclassrooms.com/fr/courses/2745636-utilisez-les-effets-avances-de-css-sur-votre-site) *Done - No certification on this course / Fait - Pas de certification délivrée pour ce cours*  
 1. Prenez en main Bootstrap **[Certification](https://github.com/s-manguy/diploma/blob/main/PHP/certificate-bootstrap-5505065014.pdf)**  
 1. Sécurisez vos applications web avec l'OWASP [Syllabus](https://openclassrooms.com/fr/courses/6179306-securisez-vos-applications-web-avec-lowasp) **[Certification](https://github.com/s-manguy/diploma/blob/main/PHP/certificate-owasp-7141137906.pdf)**   
 1. Appliquer le principe du Domain Driven Design [Syllabus](https://openclassrooms.com/fr/courses/5647281-appliquez-le-principe-du-domain-driven-design-a-votre-application) **[Certification](https://github.com/s-manguy/diploma/blob/main/FRONT-END/certificate-domain-driven-design-8071204902.pdf)** 
@@ -52,4 +52,5 @@ More information / + informations : [OpenClassrooms PHP & Symfony apps developer
 * MySql, PostgreSql
 * SQL Power Architect, SQuirrel SQL
 * PHP (MVC & POO)
+* Symfony
 
