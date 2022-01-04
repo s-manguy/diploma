@@ -4,22 +4,22 @@
 
 Find in this repository all my **Diploma, Certifications, Knowledges and Skills**.
 
-## Ux-Web Designer / Designer web-UX
-2020-2020 : OpenCLassrooms **UX Designer** Certifications, level I - 7 (Bac+5)     
+## UX-Web Designer / Designer web-UX
+2020-2020 : [OpenCLassrooms **UX Designer** Certifications, level I - 7 (Bac+5)](https://github.com/s-manguy/diploma/tree/main/UX-DESIGN#readme)     
 2000-2001 : CFAO-DAO-PAO  
 1994-1996 : **Designer** Diploma, level III - 5 (Bac+2)    
 1991-1994 : **Baccalauréat Arts Appliqués à l'industrie** Diploma, level IV - 4 (Bac) : architecture, design, illustration, fashion design / mode & textile, photography, video...  
 
 ## Web Developer / Développeur web
 ### Front-End
-2021-2021 : freeCodeCamp **RWD, JavaScript algorythms and Data Structures , Front-End Libraries & Data Visualization** Certifications  
-2020-2020 : OpenClassrooms **Front-end aps** Certifications, level II - 6 (Bac+4)  
-2020-2020 : OpenClassooms **web developper** Certification, level III - 5 (Bac+2) 
+2021-2021 : freeCodeCamp **RWD, JavaScript algorythms and Data Structures, Front-End Libraries & Data Visualization** Certifications  
+2020-2020 : [OpenClassrooms **Front-end aps** Certifications, level II - 6 (Bac+4)](https://github.com/s-manguy/diploma/tree/main/FRONT-END#readme)  
+2020-2020 : [OpenClassooms **web developper** Certification, level III - 5 (Bac+2)](https://github.com/s-manguy/diploma/blob/main/WEB-DEVELOPPER#README.md) 
 
 ### Back-End
 *coming soon :* freeCodeCamp APIs and Microservices Certification   
-2021-2021 : OpenClassooms **PHP & Symfony aps** Certifications, level II - 6 (Bac+4)      
-2020-2020 : OpenClassooms **web developper** Certification, level III - 5 (Bac+2) 
+2021-2021 : [OpenClassooms **PHP & Symfony aps** Certifications, level II - 6 (Bac+4)](https://github.com/s-manguy/diploma/blob/main/PHP/README.md)      
+2020-2020 : [OpenClassooms **web developper** Certification, level III - 5 (Bac+2)](https://github.com/s-manguy/diploma/blob/main/WEB-DEVELOPPER#README.md)  
 
 # Skills/Compétences
 ## Hard skills
