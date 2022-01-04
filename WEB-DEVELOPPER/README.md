@@ -57,4 +57,4 @@ Full course / parcours complet : [The course Certification / Certifications](htt
 
 
 ## Projects
-[view projects]()
+[view projects](https://github.com/s-manguy/projects)
