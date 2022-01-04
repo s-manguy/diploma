@@ -62,6 +62,7 @@
 * Code from a mock-up / Découper et intégrer une maquette
 * Algorythms / algorythmes
 * JavaScript
+* jQuery
 * Design Patterns
 * Accessibility / accessibilité
 * TDD
