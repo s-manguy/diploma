@@ -1,4 +1,4 @@
-# PHP & Symfony apps developer course / formation de développeur d'applications PHP & Symfony
+# PHP & Symfony apps developer course / formation de développeur d'applications PHP & Symfony level II-6 (bac + 4)
 More information / + informations : [OpenClassrooms PHP & Symfony apps developer course / formation Développeur d'application PHP & Symfony OpenClassrooms](https://openclassrooms.com/fr/paths/59-developpeur-dapplication-php-symfony)   
 The full course / le parcours complet : [Certification / Certifications du parcours](https://github.com/s-manguy/diploma/blob/main/PHP/sandrine-manguy-certification-d%C3%A9veloppeur-application-PHP-symfony-Screenshot%202021-12-21.png)
 
