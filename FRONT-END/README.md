@@ -79,3 +79,5 @@ The full course / le parcours complet : [The course Certification / certificatio
 7. Gérez votre temps efficacement [Syllabus](https://openclassrooms.com/fr/courses/5944991-gerez-votre-temps-efficacement) [Certification](https://github.com/s-manguy/diploma/blob/main/FRONT-END/certificate-gerer-temps-4169375110.pdf)
   
 
+## Projects
+[View front-end projects](https://github.com/s-manguy/projects)
