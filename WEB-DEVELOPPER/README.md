@@ -1,6 +1,28 @@
 # Web developer course / formation Développeur web
-[OpenClassrooms Web developer course / formation Développeur web chez OpenClassrooms](https://openclassrooms.com/fr/paths/185-developpeur-web)  
-[The course Certification / Certifications](https://github.com/s-manguy/diploma/blob/main/WEB-DEVELOPPER/sandrine-manguy-certification-WebDevelopper.png)
+More information / plus d'informations : [OpenClassrooms Web developer course / formation Développeur web chez OpenClassrooms](https://openclassrooms.com/fr/paths/185-developpeur-web)  
+Full course / parcours complet : [The course Certification / Certifications](https://github.com/s-manguy/diploma/blob/main/WEB-DEVELOPPER/sandrine-manguy-certification-WebDevelopper.png)
+
+## Skills / Compétences
+* Update skills and knowledge / Mettre à jours ses connaissances 
+* Use a terminal  / utiliser les lignes de commandes d'un terminal
+* Git & GitHub  
+* HTML5 & CSS3 
+* CSS3 advanced skills
+* Sass (.scss)  
+* Code a website from a mock-up / Découper et intégrer une maquette
+* SEO
+* Accessibility / Accessibilité
+* Javascript
+* Bootstrap 
+* API Rest
+* Node.js, Express & MongoDB
+* Secure apps with OWASP
+* MySql Database
+* Vue.js
+* Visual Studio Code
+* Sublim Text
+* Responsive Web Design
+
 
 ## Syllabus of the course / Contenu de la formation
 1. Apprenez à apprendre [Syllabus](https://openclassrooms.com/fr/courses/4312781-apprenez-a-apprendre) [Certification](https://github.com/s-manguy/diploma/blob/main/WEB-DEVELOPPER/certificate-apprendre-5054820055.pdf)  
@@ -34,23 +56,5 @@
 1. Adoptez Visual studio comme environnement de développement [Syllabus](https://openclassrooms.com/fr/courses/5641796-adoptez-visual-studio-comme-environnement-de-developpement)[Certificate](https://github.com/s-manguy/diploma/blob/main/WEB-DEVELOPPER/certificate-visual-studio-8724866019.pdf)
 
 
-## Skills / Compétences
-* Update skills and knowledge / Mettre à jours ses connaissances 
-* Use a terminal  / utiliser les lignes de commandes d'un terminal
-* Git & GitHub  
-* HTML5 & CSS3 
-* CSS3 advanced skills
-* Sass (.scss)  
-* Code a website from a mock-up / Découper et intégrer une maquette
-* SEO
-* Accessibility / Accessibilité
-* Javascript
-* Bootstrap 
-* Node.js, Express & MongoDB
-* Secure apps with OWASP
-* API Rest
-* MySql Database
-* Vue.js
-* Visual Studio Code
-* Sublim Text
-* Responsive Web Design
+## Projects
+[view projects]()
