@@ -1,4 +1,4 @@
-# UX Designer course / Formation UX DEsigner
+# UX Designer course / Formation UX Designer level I-7 (bac + 5)
 More information / plus d'information : [OpenClassrooms UX Designer course / formation UX Designer](https://openclassrooms.com/fr/paths/97-ux-designer)  
 The full course / le parcours complet : [The course Certification / Certifications](https://github.com/s-manguy/diploma/blob/main/UX-DESIGN/sandrine-manguy-certification-UXDesigner.png)
 
@@ -15,6 +15,10 @@ The full course / le parcours complet : [The course Certification / Certificatio
 * Design apps / Création d'interfaces utilisateur cliquables
 * Project management and UX mapping / Gestion de projet Design et UX mapping
 * Digital project management / Gestion de projet digital : waterfall or agile methods / méthodologie en cascade ou agile
+
+ 
+## Projects
+[view projects](https://github.com/s-manguy/projects#ux-ui)
 
 
 ## Syllabus of the course / Plan de la formation
@@ -44,7 +48,3 @@ The full course / le parcours complet : [The course Certification / Certificatio
 
 ### More courses / cours validés en supplément
 24. Initiez-vous au marketing digital [Syllabus]() [Certificate]()
- 
-
-## Projetcs
-[view projects](https://github.com/s-manguy/projects#ux-ui)
