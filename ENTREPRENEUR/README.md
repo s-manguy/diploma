@@ -2,7 +2,7 @@ TO MODIFY
 
 # Formation Entrepreneur
 *Cette formation de niveau I - 7 (Bac+5) n'est plus dispensée.*  
-[Certifications](https://github.com/s-manguy/diploma/blob/main/ENTREPRENEUR/sandrine-manguy-certifications-Entrepreneur.png)
+the full course / le parcours complet : [Certification / certifications de cours](https://github.com/s-manguy/diploma/blob/main/ENTREPRENEUR/sandrine-manguy-certifications-Entrepreneur.png)
 
 ## Contenu du cours
 1. Apprenez à apprendre [Syllabus](https://openclassrooms.com/fr/courses/4312781-apprenez-a-apprendre) [Certification]()  
@@ -47,6 +47,6 @@ TO MODIFY
 * Comptabilité : comptabilité d'indépendant, opérations courantes, fin d'exercice, trésorerie
 * Juridique : pacte actionnaire, statut, 
 * Communication : personal branding, prise de parole en public, storytelling, campagne publicitaire, reportings et budgets, présentations, 
-* Marketing : marketing digital, étude de marché, growth hacking,  
+* Marketing : marketing digital, étude de marché, growth hacking, prolitique de prix 
 * Gestion de projet : méthodologie en cascade
 * Techniques commerciales : technique, stratégie, réseau professionnel
