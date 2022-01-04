@@ -2,6 +2,34 @@
 [OpenClassrooms **Front-End apps Developer course** / formation développeur d'applications front-end](https://openclassrooms.com/fr/paths/314-developpeur-front-end)  
 [The course Certification / certifications](https://github.com/s-manguy/diploma/blob/main/FRONT-END/sandrine-manguy-certification-Front-End-apps.png)
 
+## Skills / compétences
+* HMTL5 & CSS3
+* CSS3 advanced skills / CSS3 fonctions avancées (animation)
+* Sass (.scss)
+* Code from a mock-up / Découper et intégrer une maquette
+* Use a terminal / Lignes de commandes d'un terminal
+* Git GitHub
+* JavaScript & Algorythms / JavaScript & algorythmes
+* jQuery
+* Accessibility / accessibilité
+* Design Patterns
+* TDD & BDD
+* Jasmine, Jest, DOM Testing Library & React Testing Library, Nightwatch, Mock Service Worker, *Chai, Enzyme, Sinon*
+* Project management : agility and waterfall methods / Gestion de projet : méthodes agiles et en cascade
+* Technical specifications / Cahier des charges fonctionnel
+* UX mapping methods / méthodes d'UX mapping
+* Create a mock-up / créer une maquette d'interface cliquable
+* Domain-Driven-Design
+* UML
+* React.js
+* Redux
+* APIrest
+* Technical documentation / Documentation technique
+* Soft skills / soft skills
+* Update skills / Mettre à jour ses connaissances - Veille informationnelle
+* Wordpress & elementor
+
+
 ## Syllabus of the course / contenu de la formation
 1. Apprenez à apprendre [Syllabus](https://openclassrooms.com/fr/courses/4312781-apprenez-a-apprendre) [Certification](https://github.com/s-manguy/diploma/blob/main/FRONT-END/certificate-apprendre-5054820055.pdf)  
 1. Comprendre le web [Syllabus](https://openclassrooms.com/fr/courses/1946386-comprendre-le-web) [Certification](https://github.com/s-manguy/diploma/blob/main/FRONT-END/certificate-comprendre-web-2660422636.pdf)  
@@ -48,30 +76,6 @@
 4. Testez vos applications Front End avec JavaScript [Syllabus](https://openclassrooms.com/fr/courses/7159296-deboguez-l-interface-de-votre-site-internet) [Certification](https://github.com/s-manguy/diploma/blob/main/FRONT-END/certificate-tester-applications-front-end-6990160265.pdf)
 5. Utilisez le State Manager Redux  pour gérer l'état de vos applications [Syllabus](https://openclassrooms.com/fr/courses/7150626-utilisez-le-state-manager-redux-pour-gerer-l-etat-de-vos-applications) [Certification](https://github.com/s-manguy/diploma/blob/main/FRONT-END/certificate-redux-6268428650.pdf)
 6. Utilisez des design patterns en javascript [Syllabus](https://openclassrooms.com/fr/courses/7133336-utilisez-des-design-patterns-en-javascript) [Certification](https://github.com/s-manguy/diploma/blob/main/FRONT-END/certificate-designpatterns-javascript-8349450486.pdf)
+7. Gérez votre temps efficacement [Syllabus](https://openclassrooms.com/fr/courses/5944991-gerez-votre-temps-efficacement) [Certification](https://github.com/s-manguy/diploma/blob/main/FRONT-END/certificate-gerer-temps-4169375110.pdf)
   
-## Skills / compétences
-* Update skills / Mettre à jour ses connaissances - Veille informationnelle
-* Soft skills / soft skills
-* Create a mock-up / créer une maquette d'interface cliquable
-* UX mapping methods / méthodes d'UX mapping
-* Use a terminal / Lignes de commandes d'un terminal
-* Git GitHub
-* HMTL5 & CSS3
-* CSS3 advanced skills / CSS3 fonctions avancées (animation)
-* Sass (.scss)
-* Code from a mock-up / Découper et intégrer une maquette
-* Algorythms / algorythmes
-* JavaScript
-* jQuery
-* Design Patterns
-* Accessibility / accessibilité
-* TDD
-* Tests : Jasmine, Jest, DOM Testing Library & React Testing Library, Nightwatch, Mock Service Worker, *Chai, Enzyme, Sinon*
-* Project management : agility and waterfall methods / Gestion de projet : méthodes agiles et en cascade
-* Technical specifications / Cahier des charges fonctionnel
-* Technical documentation / Documentation technique
-* Domain-Driven-Design
-* UML
-* React.js
-* Redux
-* Wordpress, Elementor...
+
