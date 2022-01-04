@@ -1,6 +1,21 @@
 # UX Designer course / Formation UX DEsigner
-[OpenClassrooms UX Designer course / formation UX Designer](https://openclassrooms.com/fr/paths/97-ux-designer)  
-[The course Certification / Certifications](https://github.com/s-manguy/diploma/blob/main/UX-DESIGN/sandrine-manguy-certification-UXDesigner.png)
+More information / plus d'information : [OpenClassrooms UX Designer course / formation UX Designer](https://openclassrooms.com/fr/paths/97-ux-designer)  
+The full course / le parcours complet : [The course Certification / Certifications](https://github.com/s-manguy/diploma/blob/main/UX-DESIGN/sandrine-manguy-certification-UXDesigner.png)
+
+## Skills / Compétences
+* Design Thinking
+* UX Design
+* Atomic Design
+* Material Design
+* Update skills / Veille informationnelle
+* User research / Recherche utilisateur
+* Design psychology / Psychologie du design
+* Analyze data and take decision / Analyse de données et prise de décision
+* Audit UX
+* Design apps / Création d'interfaces utilisateur cliquables
+* Project management and UX mapping / Gestion de projet Design et UX mapping
+* Digital project management / Gestion de projet digital : waterfall or agile methods / méthodologie en cascade ou agile
+
 
 ## Syllabus of the course / Plan de la formation
 1. Apprenez à apprendre [Syllabus](https://openclassrooms.com/fr/courses/4312781-apprenez-a-apprendre) [Certification]()  
@@ -30,16 +45,6 @@
 ### More courses / cours validés en supplément
 24. Initiez-vous au marketing digital [Syllabus]() [Certificate]()
  
-## Skills / Compétences
-* Design Thinking
-* UX Design
-* Atomic Design
-* Material Design
-* Veille informationnelle
-* Recherche utilisateur
-* Psychologie du design
-* Analyse de données et prise de décision
-* Audit UX
-* Création d'interfaces utilisateur cliquables
-* Gestion de projet Design et UX mapping
-* Gestion de projet digital : méthodologie en cascade ou agile
+
+## Projetcs
+[view projects](https://github.com/s-manguy/projects#ux-ui)
