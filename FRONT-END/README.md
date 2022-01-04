@@ -1,6 +1,6 @@
 # Front-End apps Developer Course / formation développeur front-end
-[OpenClassrooms **Front-End apps Developer course** / formation développeur d'applications front-end](https://openclassrooms.com/fr/paths/314-developpeur-front-end)  
-[The course Certification / certifications](https://github.com/s-manguy/diploma/blob/main/FRONT-END/sandrine-manguy-certification-Front-End-apps.png)
+More informations / plus d'informations : [OpenClassrooms **Front-End apps Developer course** / formation développeur d'applications front-end](https://openclassrooms.com/fr/paths/314-developpeur-front-end)  
+The full course / le parcours complet : [The course Certification / certifications](https://github.com/s-manguy/diploma/blob/main/FRONT-END/sandrine-manguy-certification-Front-End-apps.png)
 
 ## Skills / compétences
 * HMTL5 & CSS3
