@@ -80,4 +80,4 @@ The full course / le parcours complet : [The course Certification / certificatio
   
 
 ## Projects
-[View front-end projects](https://github.com/s-manguy/projects#front-end))
+[View front-end projects](https://github.com/s-manguy/projects#front-end)
