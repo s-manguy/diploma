@@ -47,6 +47,7 @@
 3. Déboguez l'interface de voter site internet [Syllabus](https://openclassrooms.com/fr/courses/7159296-deboguez-l-interface-de-votre-site-internet) [Certification](https://github.com/s-manguy/diploma/blob/main/FRONT-END/certificate-deboguer-interface-2355175623.pdf)
 4. Testez vos applications Front End avec JavaScript [Syllabus](https://openclassrooms.com/fr/courses/7159296-deboguez-l-interface-de-votre-site-internet) [Certification](https://github.com/s-manguy/diploma/blob/main/FRONT-END/certificate-tester-applications-front-end-6990160265.pdf)
 5. Utilisez le State Manager Redux  pour gérer l'état de vos applications [Syllabus](https://openclassrooms.com/fr/courses/7150626-utilisez-le-state-manager-redux-pour-gerer-l-etat-de-vos-applications) [Certification](https://github.com/s-manguy/diploma/blob/main/FRONT-END/certificate-redux-6268428650.pdf)
+6. Utilisez des design patterns en javascript [Syllabus](https://openclassrooms.com/fr/courses/7133336-utilisez-des-design-patterns-en-javascript) [Certification](https://github.com/s-manguy/diploma/blob/main/FRONT-END/certificate-designpatterns-javascript-8349450486.pdf)
   
 ## Skills / compétences
 * Update skills / Mettre à jour ses connaissances - Veille informationnelle
@@ -61,6 +62,7 @@
 * Code from a mock-up / Découper et intégrer une maquette
 * Algorythms / algorythmes
 * JavaScript
+* Design Patterns
 * Accessibility / accessibilité
 * TDD
 * Tests : Jasmine, Jest, DOM Testing Library & React Testing Library, Nightwatch, Mock Service Worker, *Chai, Enzyme, Sinon*
