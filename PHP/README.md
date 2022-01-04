@@ -2,7 +2,20 @@
 More information / + informations : [OpenClassrooms PHP & Symfony apps developer course / formation Développeur d'application PHP & Symfony OpenClassrooms](https://openclassrooms.com/fr/paths/59-developpeur-dapplication-php-symfony) 
 
 
-[The course Certification / Certifications]()
+[The full course Certification / Certifications du parcours](https://github.com/s-manguy/diploma/blob/main/PHP/sandrine-manguy-certification-d%C3%A9veloppeur-application-PHP-symfony-Screenshot%202021-12-21.png)
+
+## Skills / Compétences
+* HTML5 & CSS3
+* Bootstrap
+* Wordpress, Elementor
+* Code from a mock-up / Découper et intégrer une maquette
+* Project management / Gestion de projet : waterfall & agile methods, méthodes en cascade et agiles
+* UML & database / UML et base données
+* MySql, PostgreSql
+* SQL Power Architect, SQuirrel SQL
+* PHP (MVC & POO)
+* Symfony
+
 
 ## Syllabus of the course / contenu de la formation
 1. Apprenez à apprendre [Syllabus](https://openclassrooms.com/fr/courses/4312781-apprenez-a-apprendre) **[Certification](https://github.com/s-manguy/diploma/blob/main/PHP/certificate-apprendre-5054820055.pdf)**  
@@ -29,7 +42,7 @@ More information / + informations : [OpenClassrooms PHP & Symfony apps developer
 1. *Testez et suivez l'état de votre application PHP [syllabus](https://openclassrooms.com/fr/courses/4087056-testez-et-suivez-letat-de-votre-application-php) To be done / à faire*  
 1. *Testez fonctionnellement votre application Symfony [Syllabus](https://openclassrooms.com/fr/courses/4087076-testez-fonctionnellement-votre-application-symfony) To be done / à faire*  
 1. *Surveillez la performance de votre application PHP [Syllabus](https://openclassrooms.com/fr/courses/4939956-surveillez-la-performance-de-votre-application-php) To be done / à faire*  
-1. Rédigez votre rapport de stage [Syllabus](https://openclassrooms.com/fr/courses/4466756-redigez-votre-rapport-de-stage) *Done-No Certification/ fait-pas de certification délivrée pour ce cours*    
+1. Rédigez votre rapport de stage [Syllabus](https://openclassrooms.com/fr/courses/4466756-redigez-votre-rapport-de-stage) *Done-No Certification / fait-pas de certification délivrée pour ce cours*    
 1. Préparez-vous aux tests techniques pour devenir développeur [Syllabus](https://openclassrooms.com/fr/courses/6045521-preparez-vous-aux-tests-techniques-pour-devenir-developpeur) **[Certification](https://github.com/s-manguy/diploma/blob/main/PHP/certificate-tests-techniques-6246894373.pdf)**
 2. Mettre en place une veille informationnelle [Syllabus](https://openclassrooms.com/fr/courses/4805776-mettez-en-place-un-systeme-de-veille-informationnelle) **[Certification](https://github.com/s-manguy/diploma/blob/main/PHP/certificate-veille-informationnelle-2061319342.pdf)**
 
@@ -42,15 +55,5 @@ More information / + informations : [OpenClassrooms PHP & Symfony apps developer
 1. Appliquer le principe du Domain Driven Design [Syllabus](https://openclassrooms.com/fr/courses/5647281-appliquez-le-principe-du-domain-driven-design-a-votre-application) **[Certification](https://github.com/s-manguy/diploma/blob/main/FRONT-END/certificate-domain-driven-design-8071204902.pdf)** 
 1. Se maintenir à jour en développement **[Certification](https://github.com/s-manguy/diploma/blob/main/PHP/certificate-se-maintenir-a-jour-developpement-1330322190.pdf )**
 
-## Skills / Compétences
-* HTML5 & CSS3
-* Bootstrap
-* Wordpress, Elementor
-* Code from a mock-up / Découper et intégrer une maquette
-* Project management / Gestion de projet : waterfall & agile methods, méthodes en cascade et agiles
-* UML & database / UML et base données
-* MySql, PostgreSql
-* SQL Power Architect, SQuirrel SQL
-* PHP (MVC & POO)
-* Symfony
+
 
