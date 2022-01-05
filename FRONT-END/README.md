@@ -25,9 +25,13 @@ The full course / le parcours complet : [The course Certification / certificatio
 * Redux
 * APIrest
 * Technical documentation / Documentation technique
-* Soft skills / soft skills
+* Soft skills  
 * Update skills / Mettre à jour ses connaissances - Veille informationnelle
 * Wordpress & elementor
+
+ 
+## Projects
+[View front-end projects](https://github.com/s-manguy/projects#front-end)
 
 
 ## Syllabus of the course / contenu de la formation
@@ -77,7 +81,8 @@ The full course / le parcours complet : [The course Certification / certificatio
 5. Utilisez le State Manager Redux  pour gérer l'état de vos applications [Syllabus](https://openclassrooms.com/fr/courses/7150626-utilisez-le-state-manager-redux-pour-gerer-l-etat-de-vos-applications) [Certification](https://github.com/s-manguy/diploma/blob/main/FRONT-END/certificate-redux-6268428650.pdf)
 6. Utilisez des design patterns en javascript [Syllabus](https://openclassrooms.com/fr/courses/7133336-utilisez-des-design-patterns-en-javascript) [Certification](https://github.com/s-manguy/diploma/blob/main/FRONT-END/certificate-designpatterns-javascript-8349450486.pdf)
 7. Gérez votre temps efficacement [Syllabus](https://openclassrooms.com/fr/courses/5944991-gerez-votre-temps-efficacement) [Certification](https://github.com/s-manguy/diploma/blob/main/FRONT-END/certificate-gerer-temps-4169375110.pdf)
-  
-
-## Projects
-[View front-end projects](https://github.com/s-manguy/projects#front-end)
+ 
+ ### More validated courses on the funMOOC pltaform
+1. Unlock you English, **Mines et telecom** [Syllabus](https://www.fun-mooc.fr/fr/cours/unlock-your-english/)  [Attestation de suivi](https://github.com/s-manguy/diploma/blob/main/ENTREPRENEUR/attestation-suivi_MinesTelecom_unlock-your-english.pdf)
+2. Conduite de réunion en anglais, **Université de Lorraine** [Syllabus](https://www.fun-mooc.fr/fr/cours/conduite-de-reunion-en-anglais/)  [Attestation de suivi](https://github.com/s-manguy/diploma/blob/main/ENTREPRENEUR/attestation-suivi_lorraine_reunion-en-anglais.pdf)
+3. L'innovation dans les entreprises culturelles & créatives, **Université de Montpellier** [Syllabus](https://www.fun-mooc.fr/fr/cours/linnovation-dans-les-entreprises-culturelles-creatives/)  [Attestation de suivi](https://github.com/s-manguy/diploma/blob/main/ENTREPRENEUR/attestation-suivi_umontpellier_innovation-dans-ecc.pdf)
