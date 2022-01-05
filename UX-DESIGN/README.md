@@ -48,3 +48,8 @@ The full course / le parcours complet : [The course Certification / Certificatio
 
 ### More courses / cours validés en supplément
 24. Initiez-vous au marketing digital [Syllabus]() [Certificate]()
+
+### More validated courses on the funMOOC pltaform
+1. Unlock you English, **Mines et telecom** [Syllabus](https://www.fun-mooc.fr/fr/cours/unlock-your-english/)  [Attestation de suivi](https://github.com/s-manguy/diploma/blob/main/ENTREPRENEUR/attestation-suivi_MinesTelecom_unlock-your-english.pdf)
+2. Conduite de réunion en anglais, **Université de Lorraine** [Syllabus](https://www.fun-mooc.fr/fr/cours/conduite-de-reunion-en-anglais/)  [Attestation de suivi](https://github.com/s-manguy/diploma/blob/main/ENTREPRENEUR/attestation-suivi_lorraine_reunion-en-anglais.pdf)  
+3. L'innovation dans les entreprises culturelles & créatives, **Université de Montpellier** [Syllabus](https://www.fun-mooc.fr/fr/cours/linnovation-dans-les-entreprises-culturelles-creatives/)  [Attestation de suivi](https://github.com/s-manguy/diploma/blob/main/ENTREPRENEUR/attestation-suivi_umontpellier_innovation-dans-ecc.pdf)
