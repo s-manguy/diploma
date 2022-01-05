@@ -59,7 +59,7 @@ Full course / parcours complet : [The course Certification / Certifications](htt
 1. Découvrez le fonctionnement des algorythmes [Syllabus](https://openclassrooms.com/fr/courses/4366701-decouvrez-le-fonctionnement-des-algorithmes) [Certification](https://github.com/s-manguy/diploma/blob/main/WEB-DEVELOPPER/certificate-algorythmes-7847288853.pdf)  
 1. Adoptez Visual studio comme environnement de développement [Syllabus](https://openclassrooms.com/fr/courses/5641796-adoptez-visual-studio-comme-environnement-de-developpement)[Certificate](https://github.com/s-manguy/diploma/blob/main/WEB-DEVELOPPER/certificate-visual-studio-8724866019.pdf)
 
-### More validated courses
-view the [front-end app developer course certifications](https://github.com/s-manguy/diploma/tree/main/FRONT-END#front-end-apps-developer-course--formation-d%C3%A9veloppeur-front-end-level-ii-6-bac--4)
-view the [PHP & Symfony developer course certifications](https://github.com/s-manguy/diploma/tree/main/PHP#php--symfony-apps-developer-course--formation-de-d%C3%A9veloppeur-dapplications-php--symfony-level-ii-6-bac--4)
+### More validated full courses
+view the [front-end app developer course certifications](https://github.com/s-manguy/diploma/tree/main/FRONT-END#front-end-apps-developer-course--formation-d%C3%A9veloppeur-front-end-level-ii-6-bac--4)  
+view the [PHP & Symfony developer course certifications](https://github.com/s-manguy/diploma/tree/main/PHP#php--symfony-apps-developer-course--formation-de-d%C3%A9veloppeur-dapplications-php--symfony-level-ii-6-bac--4)  
 view the [webdesigner/UXdesigner course certifications](https://github.com/s-manguy/diploma/tree/main/UX-DESIGN#ux-designer-course--formation-ux-designer-level-i-7-bac--5)
