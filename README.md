@@ -1,16 +1,14 @@
-*en cours*  
-Sont placés dans ce "repository" tous mes diplômes, certificats, connaissances et compétences.
+*Sont placés dans ce "repository" tous mes diplômes, certificats, connaissances et compétences.*
 
 # 👋 Bonjour, je suis **Sandrine MANGUY**
 
 ## 🔭 *Qui suis-je ?* 
-Je suis **UX designer** and a **développeur web**. 
+Je suis **UX designer** and **développeur web**. 
 
-### 🌱 que fais-je actuellement ?
-En ce moment je termine mon apprentissage de PHP et je travaille sur des projets pour atteindre un niveau professionnel.  
-Je vais pouvoir me mettre en recherche d'un poste de développeur web très prochainement.
+### 🌱 Que fais-je actuellement ?
+En ce moment, je travaille sur des projets en PHP.  
 
-### 👀 What am I interested in?
+### 👀 Quels sont mes centres d'intérêt non professionnels ?
 * apprendre des langues étrangères avec Duolingo, 
 * lire des livres et regarder des séries en français et en langues étrangères, 
 * marcher, courir un peu aussi
@@ -25,11 +23,9 @@ Je vais pouvoir me mettre en recherche d'un poste de développeur web très proc
 * organisation et rigueur
 * travail collaboratif
 
-### Quelles sont mes compétences/connaissances ?
+### Quelles sont mes compétences/connaissances professionnelles ?
 #### Compétences transversales :
-* Cahier des charges
-* Documentation technique
-* Gestion de projet
+* Gestion de projet, Cahier des charges, Documentation technique
 * Mise à jour des connaissances
 * Tutorat et formation : stagiaires, apprentis, collègues et employers des fournisseurs en France et à l'étranger
 * Secteurs connus : administration, commerce, formation, luxe, spectacle, textile, tourisme & hôtellerie
@@ -38,51 +34,52 @@ Je vais pouvoir me mettre en recherche d'un poste de développeur web très proc
 * Logiciels: Microsoft Office, Libre Office, PDFSam
 * Langues étrangères : anglais (C1), italien (B2), espagnol
  
-#### Uxdesign:
+#### Uxdesign :
 * Design Thinking, UX Design, Atomic Design, Material Design
 * Créer des interfaces et des illustrations
 * Audit, Analyse de données and prise de decisions
 * Logiciels: Figma, Adobe CC (XD, Photoshop, Illustrator, Indesign), The Gimp, Inkscape, Scribus
 
-#### Développement:
+#### Développement :
 * HTML5 (+ markdown), CSS3 (+ Sass), Bootstrap, JavaScript (+ jQuery, d3, React, Redux, Vue), *PHP (+ Symfony)*
-* MVC, POO, SOLID & Design Patterns
-* Git & Github
-* Code from Mock-up
-* Responsive Web Design
+* Découpe et intégration de maquette
+* Responsive Web Design et Accessibilité
 * SEO
-* Accessibilité
 * Visualisation de données
+* MVC, POO, SOLID & Design Patterns
 * API Rest
-* Node.js, Express & MongoDB
-* MAMP & phpMyAdmin
-* MySql Database: SQL Power Architect, SQuirrel SQL
+* Base de données noSql : Node.js, Express & MongoDB, 
+* Base de données Sql (MySql et PostgreSql) : SQL Power Architect, SQuirrel SQL, MAMP & phpMyAdmin
 * BDD: Jest, DOM Testing Library & React Testing Library, Nightwatch, Mock Service Worker, Chai
 * DDD & UML
-* EDI: Visual Studio Code
+* Git & Github, Visual Studio Code
 * CMS: Wordpress & elementor
 
 
-## *Formation & diplômes*
+## *Envie de découvrir quelques réalisations ?*
+Portfolio **[Github](https://github.com/s-manguy/projects)**  
+Portfolio **[freeCodeCamp](https://www.freecodecamp.org/fcc3ab085a4-3e2d-4160-a445-50914111cc0d)**  
+Portfolio **[Codepen](https://codepen.io/s-manguy)**  
+
+
+
+## *Quelles sont les formations suivies & les diplômes obtenus ?*
 ### Designer web-UX
 2020-2020 : OpenCLassrooms **UX Designer** Certificats, level I - 7 (Bac+5) [more information](https://github.com/s-manguy/diploma/tree/main/UX-DESIGN#readme)     
-2000-2001 : CFAO-DAO-PAO (Lectra Systèmes & Adobe)  
+2000-2001 : CFAO-DAO-PAO (Lectra Systèmes & Adobe)   
+2000-2000 : Certificate in English - Saint Giles School - London (UK)  
 1994-1996 : **Designer** Diplôme, level III - 5 (Bac+2)    
 1991-1994 : **Baccalauréat Arts Appliqués à l'industrie** Diplôme, level IV - 4 (Bac) : architecture, design, illustration, mode & textile, photographie, video...  
 
-### Web Developer / Développeur web
-#### Front-End
+### Développeur web
+*coming soon :* freeCodeCamp APIs and Microservices Certification   
+2021-2021 : OpenClassooms **PHP & Symfony** Certificats, level II - 6 (Bac+4) [more information](https://github.com/s-manguy/diploma/blob/main/PHP/README.md)   
 2021-2021 : freeCodeCamp **RWD, JavaScript algorythms and Data Structures, Front-End Libraries & Data Visualization** Certifications [more information](https://www.freecodecamp.org/fcc3ab085a4-3e2d-4160-a445-50914111cc0d)  
 2020-2020 : OpenClassrooms **Développeur Front-End react** Certificats, level II - 6 (Bac+4) [more information](https://github.com/s-manguy/diploma/tree/main/FRONT-END#readme)  
 2020-2020 : OpenClassooms **Développeur web** Certificats, level III - 5 (Bac+2) [more information](https://github.com/s-manguy/diploma/blob/main/WEB-DEVELOPPER#README.md) 
 
-### Back-End
-*coming soon :* freeCodeCamp APIs and Microservices Certification   
-2021-2021 : OpenClassooms **PHP & Symfony** Certificats, level II - 6 (Bac+4) [more information](https://github.com/s-manguy/diploma/blob/main/PHP/README.md)      
-2020-2020 : OpenClassooms **Développeur web** Certificats, level III - 5 (Bac+2) [more information](https://github.com/s-manguy/diploma/blob/main/WEB-DEVELOPPER#README.md)  
 
-
-## 📋 *Quels ont été mes employeurs ?* 
+## 📋 *Quels ont été mes précédents employeurs ?* 
 ### Graphiste sur postes administratifs 
 * 2017-2018 : Ministère de la transition écologique et solidaire - Dréal N.-A. et DDCS - Poitiers (86) - France
 * 2014-2014 : Ministère de l'écologie et du développement durable - Dréal Poitou-Charentes - Poitiers (86) - France
