@@ -23,6 +23,14 @@ Find in this repository all my **Diploma, Certifications, Knowledges and Skills*
 
 # Skills/Compétences
 ## Hard skills
+* **Transversal/*transversales***
+  * Update knowledges/*veille informationnelle*
+  * Tutoring & teaching / *Tutorer/Tormer* : trainees/*stagiaires*, apprentices/*apprentis*, students/*étudiants*, colleagues/*collègues* and suppliers' employees/*employers des fournisseurs* in France & foreign countries / *en France et à l'étranger*
+  * Known sectors / *Secteurs connus*: administration, education/*formation*, luxury industry/*luxe*, performing arts/*spectacle*, textile, tourism & hotel /*tourisme et hôtellerie*, trade/*commerce*
+  * Places where I worked: France, Greece, HongKong and China, Italy, Portugal, Turkey
+  * Other foreigners I worked with: Americans, Bangladeshis, Indians, Lithuanians, Malagazies, Mauritians, Morrocans, Pakistanis, Peruvians, Romanians, Tunisians... 
+  * Softwares/*logiciels*: Microsoft Office, Libre Office, PDFSam
+  * Foreign languages / *langues étrangères*: English (C1), Italian (B2), Spanish
 * **Design/*création***
   * Design thinking: trends/tendances, moodboard/planche d'ambiance, color range / gamme de couleurs, typography/typographie, sketches/croquis...
   * UX design: research/recherche, personas, wireframes...
@@ -45,3 +53,9 @@ Find in this repository all my **Diploma, Certifications, Knowledges and Skills*
   * Project management / Gestion de projet : DDD, UML, technical specifications / cahier des charges, waterfall & agile methods / méthodes en cascade et agiles
   * Technical Documentation / documentation technique
 ## Soft skills
+* adaptability & agility
+* autonomy & decision making
+* diplomacy & pedagogy
+* analytical mind
+* organization and rigor
+* collaborative work
