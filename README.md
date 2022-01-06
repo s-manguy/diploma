@@ -5,17 +5,17 @@
 ## 🔭 *Qui suis-je ?* 
 Je suis **UX designer** and **développeur web**. 
 
-### 🌱 Que fais-je actuellement ?
+### 🌱 *Que fais-je actuellement ?*
 En ce moment, je travaille sur des projets en PHP.  
 
-### 👀 Quels sont mes centres d'intérêt non professionnels ?
+### 👀 *Quels sont mes centres d'intérêt non professionnels ?*
 * apprendre des langues étrangères avec Duolingo, 
 * lire des livres et regarder des séries en français et en langues étrangères, 
 * marcher, courir un peu aussi
 * croquer et photographier mon environnement, visiter des expositions,
 * voir mes amis et chanter avec eux...
 
-### Quelles sont mes compétences comportementales ?
+### 💬 *Quelles sont mes compétences comportementales ?*
 * adaptabilité et agilité
 * autonomie et prise de décision
 * diplomatie et pédagogie
@@ -23,14 +23,16 @@ En ce moment, je travaille sur des projets en PHP.
 * organisation et rigueur
 * travail collaboratif
 
-### Quelles sont mes compétences/connaissances professionnelles ?
+### ✨ *Quelles sont mes compétences/connaissances professionnelles ?*
 #### Compétences transversales :
 * Gestion de projet, Cahier des charges, Documentation technique
 * Mise à jour des connaissances
 * Tutorat et formation : stagiaires, apprentis, collègues et employers des fournisseurs en France et à l'étranger
 * Secteurs connus : administration, commerce, formation, luxe, spectacle, textile, tourisme & hôtellerie
-* Pays où j'ai travaillé : France, Grèce, HongKong and Chine, Italie, Portugal, Turquie
-* Autres interlocuteurs à distance : Americains, Bangladais, Indiens, Lithuaniens, Malgaches, Mauriciens, Marocains, Pakistanais, Peruviens, Roumains, Tunisiens... 
+* Pays où j'ai travaillé : France, Grèce, HongKong and Chine, Italie, Portugal, Turquie  
+  🇫🇷 🇬🇷 🇨🇳 🇮🇹 🇵🇹 🇹🇷
+* Autres interlocuteurs à distance : Americains, Bangladais, Indiens, Lithuaniens, Malgaches, Mauriciens, Marocains, Pakistanais, Peruviens, Roumains, Tunisiens...  
+  🇺🇸 🇧🇩 🇮🇳 🇱🇹 🇲🇬 🇲🇺 🇲🇦 🇵🇰 🇵🇪 🇷🇪 🇷🇴 🇹🇳
 * Logiciels: Microsoft Office, Libre Office, PDFSam
 * Langues étrangères : anglais (C1), italien (B2), espagnol
  
@@ -56,14 +58,14 @@ En ce moment, je travaille sur des projets en PHP.
 * CMS: Wordpress & elementor
 
 
-## *Envie de découvrir quelques réalisations ?*
+## 👓 *Envie de découvrir quelques réalisations ?*
 Portfolio **[Github](https://github.com/s-manguy/projects)**  
 Portfolio **[freeCodeCamp](https://www.freecodecamp.org/fcc3ab085a4-3e2d-4160-a445-50914111cc0d)**  
 Portfolio **[Codepen](https://codepen.io/s-manguy)**  
 
 
 
-## *Quelles sont les formations suivies & les diplômes obtenus ?*
+## 🎓 *Quelles sont les formations suivies & les diplômes obtenus ?*
 ### Designer web-UX
 2019-2020 : OpenCLassrooms **UX Designer** Certificats, level I - 7 (Bac+5) [more information](https://github.com/s-manguy/diploma/tree/main/UX-DESIGN#readme)     
 2000-2001 : CFAO-DAO-PAO (Lectra Systèmes & Adobe)   
