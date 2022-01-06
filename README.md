@@ -72,7 +72,7 @@ Portfolio **[Codepen](https://codepen.io/s-manguy)**
 1991-1994 : **Baccalauréat Arts Appliqués à l'industrie** Diplôme, level IV - 4 (Bac) : architecture, design, illustration, mode & textile, photographie, video...  
 
 ### Développeur web
-*coming soon :* freeCodeCamp APIs and Microservices Certification   
+*en cours :* freeCodeCamp APIs and Microservices Certification   
 2021-2021 : OpenClassooms **PHP & Symfony** Certificats, level II - 6 (Bac+4) [more information](https://github.com/s-manguy/diploma/blob/main/PHP/README.md)   
 2021-2021 : freeCodeCamp **RWD, JavaScript algorythms and Data Structures, Front-End Libraries & Data Visualization** Certifications [more information](https://www.freecodecamp.org/fcc3ab085a4-3e2d-4160-a445-50914111cc0d)  
 2020-2020 : OpenClassrooms **Développeur Front-End react** Certificats, level II - 6 (Bac+4) [more information](https://github.com/s-manguy/diploma/tree/main/FRONT-END#readme)  
