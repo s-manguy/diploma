@@ -65,7 +65,7 @@ Portfolio **[Codepen](https://codepen.io/s-manguy)**
 
 ## *Quelles sont les formations suivies & les diplômes obtenus ?*
 ### Designer web-UX
-2020-2020 : OpenCLassrooms **UX Designer** Certificats, level I - 7 (Bac+5) [more information](https://github.com/s-manguy/diploma/tree/main/UX-DESIGN#readme)     
+2019-2020 : OpenCLassrooms **UX Designer** Certificats, level I - 7 (Bac+5) [more information](https://github.com/s-manguy/diploma/tree/main/UX-DESIGN#readme)     
 2000-2001 : CFAO-DAO-PAO (Lectra Systèmes & Adobe)   
 2000-2000 : Certificate in English - Saint Giles School - London (UK)  
 1994-1996 : **Designer** Diplôme, level III - 5 (Bac+2)    
