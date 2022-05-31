@@ -58,12 +58,17 @@ The full course / le parcours complet : [Certification / Certifications du parco
 
 
 ### More validated courses / cours validés en supplément
-28. Apprenez à utiliser la ligne de commande dans un terminal [Syllabus](https://openclassrooms.com/fr/courses/6173491-apprenez-a-utiliser-la-ligne-de-commande-dans-un-terminal) **[Certification]()**  
+30. Apprenez à utiliser la ligne de commande dans un terminal [Syllabus](https://openclassrooms.com/fr/courses/6173491-apprenez-a-utiliser-la-ligne-de-commande-dans-un-terminal) **[Certification]()**  
 1. Utilisez les effets avancés de css sur votre site [Syllabus](https://openclassrooms.com/fr/courses/2745636-utilisez-les-effets-avances-de-css-sur-votre-site) *Done - No certification on this course / Fait - Pas de certification délivrée pour ce cours*  
 1. Prenez en main Bootstrap **[Certification](https://github.com/s-manguy/diploma/blob/main/PHP/certificate-bootstrap-5505065014.pdf)**  
 1. Sécurisez vos applications web avec l'OWASP [Syllabus](https://openclassrooms.com/fr/courses/6179306-securisez-vos-applications-web-avec-lowasp) **[Certification](https://github.com/s-manguy/diploma/blob/main/PHP/certificate-owasp-7141137906.pdf)**   
-10. Débutez l'analyse logicielle avec UML [Syllabus](https://openclassrooms.com/fr/courses/2035826-debutez-lanalyse-logicielle-avec-uml) **[Certification](https://github.com/s-manguy/diploma/blob/main/FRONT-END/certificate-git-github-5599139215.pdf)**
+1. Débutez l'analyse logicielle avec UML [Syllabus](https://openclassrooms.com/fr/courses/2035826-debutez-lanalyse-logicielle-avec-uml) **[Certification](https://github.com/s-manguy/diploma/blob/main/FRONT-END/certificate-git-github-5599139215.pdf)**
 1. Se maintenir à jour en développement **[Certification](https://github.com/s-manguy/diploma/blob/main/PHP/certificate-se-maintenir-a-jour-developpement-1330322190.pdf )**
 
 
+### More tutorials / tutoriels suivis en supplément
+36. Grafikart, [Symfony 4 par l'exemple](https://grafikart.fr/formations/symfony-4-pratique)
+37. Grafikart, [Découverte d'API Platform](https://grafikart.fr/formations/api-plaform)
+38. grafikart, [Module de commentaires : API Platform](https://grafikart.fr/tutoriels/module-commentaires-api-platform-1310)
+39. Grafikart, [Module de commentaires : React ](https://grafikart.fr/tutoriels/module-commentaires-react-1311)
 
