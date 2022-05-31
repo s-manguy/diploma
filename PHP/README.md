@@ -14,10 +14,10 @@ The full course / le parcours complet : [Certification / Certifications du parco
 * Git & Github
 * PHP (MVC, POO, SOLID & Design Patterns)
 * MAMP & phpMyAdmin
-* MySql, PostgreSql
+* MySql, SQL, PostgreSql
 * SQL Power Architect, SQuirrel SQL
 * Symfony
-* API Rest
+* API Rest & API Platform
 * BDD & TDD 
 * Performance survey / Surveiller la performance
 * Update skills / Mettre en place une veille informationnelle
