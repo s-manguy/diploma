@@ -43,16 +43,18 @@ En ce moment, je travaille sur des projets en PHP.
 * Logiciels: Figma, Adobe CC (XD, Photoshop, Illustrator, Indesign), The Gimp, Inkscape, Scribus
 
 #### Développement :
-* HTML5 (+ markdown), CSS3 (+ Sass), Bootstrap, JavaScript (+ jQuery, d3, React, Redux, Vue), *PHP (+ Symfony)*
+* HTML5 (+ markdown), CSS3 (+ Sass), Bootstrap
+*  JavaScript (+ jQuery, d3, React, Redux, Vue)
+*  PHP (+ Symfony)
 * Découpe et intégration de maquette
 * Responsive Web Design et Accessibilité
 * SEO
 * Visualisation de données
 * MVC, POO, SOLID & Design Patterns
-* API Rest
-* Base de données noSql : Node.js, Express & MongoDB, 
-* Base de données Sql (MySql et PostgreSql) : SQL Power Architect, SQuirrel SQL, MAMP & phpMyAdmin
-* BDD: Jest, DOM Testing Library & React Testing Library, Nightwatch, Mock Service Worker, Chai
+* API Rest: Node.js & Express, APi Platform
+* Base de données noSql : MongoDB 
+* Base de données Sql (MySql, SQL et PostgreSql) : SQL Power Architect, SQuirrel SQL, MAMP & phpMyAdmin
+* BDD: Jest, DOM Testing Library & React Testing Library, Nightwatch, Mock Service Worker, Chai, PHPUnit
 * DDD & UML
 * Git & Github, Visual Studio Code
 * CMS: Wordpress & elementor
