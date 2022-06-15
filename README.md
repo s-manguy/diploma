@@ -44,14 +44,14 @@ En ce moment, je travaille sur des projets en PHP.
 
 #### Développement :
 * HTML5 (+ markdown), CSS3 (+ Sass), Bootstrap
-*  JavaScript (+ jQuery, d3, React, Redux, Vue)
-*  PHP (+ Symfony)
+* JavaScript (+ jQuery, d3, React, Redux, Vue)
+* PHP (+ Symfony, API Platform)
 * Découpe et intégration de maquette
 * Responsive Web Design et Accessibilité
 * SEO
 * Visualisation de données
 * MVC, POO, SOLID & Design Patterns
-* API Rest: Node.js & Express, APi Platform
+* API Rest: Node.js & Express, APi Platform, postman
 * Base de données noSql : MongoDB 
 * Base de données Sql (MySql, SQL et PostgreSql) : SQL Power Architect, SQuirrel SQL, MAMP & phpMyAdmin
 * BDD: Jest, DOM Testing Library & React Testing Library, Nightwatch, Mock Service Worker, Chai, PHPUnit
