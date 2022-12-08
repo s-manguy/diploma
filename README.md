@@ -2,7 +2,7 @@
 
 # 👋 Bonjour, je suis **Sandrine MANGUY**
 
-[Me conbtacter](https://sandrinemanguy.com/#contact)
+[Me contacter](https://sandrinemanguy.com/#contact)
 
 
 ## 🔭 *Qui suis-je ?* 
