@@ -2,6 +2,9 @@
 
 # 👋 Bonjour, je suis **Sandrine MANGUY**
 
+[Me conbtacter](https://sandrinemanguy.com/#contact)
+
+
 ## 🔭 *Qui suis-je ?* 
 Je suis **UX designer** and **développeur web**. 
 
