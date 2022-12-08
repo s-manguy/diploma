@@ -111,6 +111,7 @@ Portfolio **[Codepen](https://codepen.io/s-manguy)**
 
 
 ## 📫 Comment me contacter ?
+[Contactez-moi](https://sandrinemanguy.com/#contact)
 
 <!--
 - 👋 Hi, I’m @s-manguy
