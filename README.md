@@ -1,6 +1,9 @@
-*Sont placés dans ce "repository" tous mes diplômes, certificats, connaissances et compétences.*
 
 ARE YOU LOOKING FOR THE [ENGLISH VERSION](https://github.com/s-manguy) ?
+
+
+*Sont placés dans ce "repository" tous mes diplômes, certificats, connaissances et compétences.*
+
 
 # 👋 Bonjour, je suis **Sandrine MANGUY**, webdesigner et développeur web | Nouvelle-Aquitaine
 
