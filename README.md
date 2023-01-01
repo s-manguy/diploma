@@ -1,12 +1,14 @@
 *Sont placés dans ce "repository" tous mes diplômes, certificats, connaissances et compétences.*
 
-# 👋 Bonjour, je suis **Sandrine MANGUY**
+ARE YOU LOOKING FOR THE [ENGLISH VERSION](https://github.com/s-manguy) ?
+
+# 👋 Bonjour, je suis **Sandrine MANGUY**, webdesigner et développeur web | Nouvelle-Aquitaine
 
 [Me contacter](https://sandrinemanguy.com/#contact)
 
 
 ## 🔭 *Qui suis-je ?* 
-Je suis **UX designer** and **développeur web**. 
+Je suis **UX designer** et **développeur web**. 
 
 ### 🌱 *Que fais-je actuellement ?*
 En ce moment, je travaille sur des projets en PHP.  
