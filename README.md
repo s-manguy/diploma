@@ -59,7 +59,7 @@ En ce moment, je travaille sur des projets en PHP.
 * SEO
 * Visualisation de données
 * MVC, POO, SOLID & Design Patterns
-* API Rest: Node.js & Express, APi Platform, postman
+* API Rest: Node.js & Express, APi Platform (mongoose, prisma), postman
 * Base de données noSql : MongoDB 
 * Base de données Sql (MySql, SQL et PostgreSql) : SQL Power Architect, SQuirrel SQL, MAMP & phpMyAdmin
 * BDD: Jest, DOM Testing Library & React Testing Library, Nightwatch, Mock Service Worker, Chai, PHPUnit
